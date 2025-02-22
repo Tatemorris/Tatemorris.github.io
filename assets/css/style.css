@@ -633,6 +633,7 @@ section {
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
+  align-items: center;
 }
 
 .portfolio-details .portfolio-details-slider img {
