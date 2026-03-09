@@ -47,8 +47,15 @@
 
       <div class="profile">
         <img src="../assets/img/me.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="../index.html">Tate F. Morris</a></h1>
-        <div class="social-links mt-3 text-center">
+        <div class="profile-text">
+        <h1 class="text-light m-0">
+          <a href="../index.html" class="text-light text-decoration-none">
+            Tate F. Morris
+            <br>
+            <span class="title-sub fst-italic d-block">Technical Designer</span>
+          </a>
+        </h1>
+        </div>        <div class="social-links mt-3 text-center">
           <a href="https://www.instagram.com/tfmgameprojects/" class="instagram"><i class="bx bxl-instagram"></i></a>
           <a href="https://www.linkedin.com/in/tatemorris-dev-student/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
@@ -85,6 +92,15 @@
 
     <!-- ======= Portfolio Details Section ======= -->
     <section id="portfolio-details" class="portfolio-details">
+      <!-- Trailer Hero -->
+<div class="trailer-hero">
+  <video class="trailer-video" autoplay muted loop playsinline preload="metadata" controls>
+    <source src="../assets/vds/Greenlight Trailer.mp4" type="video/mp4">
+    <!-- Optional: provide a WebM for better compression -->
+    <!-- <source src="../assets/video/WIWL_Trailer.webm" type="video/webm"> -->
+    Your browser does not support the video tag.
+  </video>
+</div>
       <div class="container">
 
         <div class="row gy-4">
@@ -93,17 +109,17 @@
             <div class="portfolio-details-slider swiper">
               <div class="swiper-wrapper align-items-center">
 
-                <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/WIWL_poster.png" alt="poster, made by panwithcake">
-                </div>
+          <div class="swiper-slide">
+            <img class="portfolio-slide-img" src="../assets/img/portfolio/WIWL_poster.png" alt="poster, made by panwithcake">
+          </div>
 
-                <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/DDSEditor.png" alt="editor">
-                </div>
+          <div class="swiper-slide">
+            <img class="portfolio-slide-img" src="../assets/img/portfolio/WIWL_TitleScreen.png" alt="editor">
+          </div>
 
-                <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/DDSCode.png" alt="code">
-                </div>
+          <div class="swiper-slide">
+            <img class="portfolio-slide-img" src="../assets/img/portfolio/Locker2.png" alt="code">
+          </div>
 
               </div>
               <div class="swiper-pagination"></div>
@@ -112,11 +128,37 @@
             <div class="portfolio-description">
               <h2>Project Details</h2>
               <p>
-                Capstone
-                <br><br>
-                Talk About It
-                <br><br>
-                Yeah
+                <i>
+                &emsp;Enter Christina Lyon, a death row inmate falsely accused of the murder of her husband and daughter. 
+                She is taken to a prison run by Charybdis Industries, a corporation secretly experimenting on an amphibious carnivore in a
+                secure laboratory within the same facility. When the subject escapes and goes on a killing spree, Christina wakes to find 
+                herself the sole survivor. 
+              <br><br>
+                &emsp;Now trapped in an abandoned facility with a dangerous creature, Christina must find a way to escape, using the subject’s 
+                attraction to noise to break down walls. Along the way, she will reminisce about the facility’s dead inhabitants and 
+                uncover exactly why the creature was there in the first place.
+                </i>
+              <br><br>
+                &emsp;As the project’s Technical Designer and Lead Designer, I designed and implemented the game’s core mechanic from 
+                prototype through continued development, ensuring the system remained readable, tunable, and scalable for the team. 
+                The central design challenge is deliberate: the monster is both a tool and a threat. Players must create sound to 
+                influence its behavior and direct it toward destructible walls, but any misstep can trigger aggression, a killing swipe, 
+                or an overwhelming screech. This creates a tense, systemic relationship where progression requires calculated risk, 
+                communication, and controlled provocation.
+              <br><br>
+                &emsp;My work centered on building the monster-facing gameplay systems that make this loop possible. I designed the monster’s 
+                AI behavior set, its actions, perception responses, escalation logic, and scream behavior. All of this implemented in Unreal 
+                Engine 5 using parameterized, designer-friendly logic so that other designers and programmers can quickly tune thresholds,
+                timings, ranges, and reactions to match pacing and difficulty targets. In parallel, I designed and implemented a Sanity 
+                mechanic to support the narrative and psychological horror tone, using systemic changes to player perception and 
+                moment-to-moment tension as a storytelling device rather than relying solely on cutscenes.
+              <br><br>
+                &emsp;Beyond the core loop, I implemented supporting stealth and interaction systems, including player hiding, modular object 
+                triggers, and additional progression-facing mechanics that enable encounter scripting and reliable scenario flow. I 
+                documented each mechanic with clear intent, dependencies, tunable parameters, and edge cases to improve handoff and 
+                iteration speed across disciplines. I also presented the project during Champlain’s Greenlight presentations, organized 
+                and hosted playtests, and incorporated feedback into ongoing revisions and balance passes. All work that led to the team nominating me 
+                as Lead Designer for the project.
               </p>
             </div>
           </div>
@@ -128,7 +170,8 @@
                 <li><strong>Category</strong>: Video Game</li>
                 <li><strong>Association</strong>: Capstone Project, Team No Pulse (Champlain College)</li>
                 <li><strong>Time Worked</strong>: months <br>Aug. '25 - May. 10th '26</br></li>
-                <li><strong>Project Page</strong>: <a href="">Wahh</a></li>
+                <li><strong>Steam Page</strong>: <!--<a href=""> --><i>Coming Soon</a></li>
+                <li><strong>Project Discord</strong>: <!--<a href=""> --><i>Coming Soon</a></li>
               </ul>
             </div>
           </div>
