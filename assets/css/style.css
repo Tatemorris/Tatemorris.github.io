@@ -1153,3 +1153,9 @@ section {
   object-fit: cover;
 }
 
+.info-divider {
+  border: none;
+  border-top: 3px solid #0e2442;
+  margin: 20px 0;
+}
+

@@ -47,7 +47,12 @@
 
       <div class="profile">
         <img src="../assets/img/me.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="../index.html">Tate F. Morris</a></h1>
+        <h1 class="text-light">
+          <a href="../index.html" class="text-light text-decoration-none">
+            Tate F. Morris
+            <br>
+            <span class="title-sub fst-italic d-block">Technical Designer</span>
+          </a>
         <div class="social-links mt-3 text-center">
           <a href="https://www.instagram.com/tfmgameprojects/" class="instagram"><i class="bx bxl-instagram"></i></a>
           <a href="https://www.linkedin.com/in/tatemorris-dev-student/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
@@ -57,9 +62,9 @@
       <nav id="navbar" class="nav-menu navbar">
         <ul>
           <li><a href="../index.html#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="../index.html#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
           <li><a href="../index.html#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
           <li><a href="../index.html#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
-          <li><a href="../index.html#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
           <li><a href="../index.html#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
@@ -108,36 +113,77 @@
               </div>
               <div class="swiper-pagination"></div>
             </div>
-          </div>
+          <div class="portfolio-description">
+          <h3>Intent</h3>
+          <p>
+          The goal was to transform a low-agency children’s game into a system with meaningful player choice and interaction. 
+          I focused on introducing mechanics that increase decision-making complexity while preserving the accessibility of 
+          the original design.
+          </p>
 
-          <div class="col-lg-4">
+          <h3>Gameplay Overview</h3>
+          <p>
+          The game builds on traditional Go Fish rules by introducing ability cards that modify turn structure, player 
+          targeting, and information flow. These additions create opportunities for strategic planning, bluffing, and 
+          disruption of opponents.
+          </p>
+
+          <h3>Systems Design</h3>
+          <p>My contributions centered on expanding the decision space through card mechanics:</p>
+          <ul>
+            <li>Designed ability cards that introduce new interaction layers between players and the deck</li>
+            <li>Modified core rules to support expanded mechanics without breaking game flow</li>
+            <li>Ensured all additions maintained clarity and quick readability during play</li>
+          </ul>
+
+          <h3>Design Examples</h3>
+          <ul>
+            <li><strong>Siren Card:</strong> Expands targeting from a single player to all players, increasing risk/reward and accelerating game pacing</li>
+            <li><strong>Fishing Rod:</strong> Introduces controlled randomness by allowing repeated draws until a condition is met</li>
+            <li><strong>Sonar:</strong> Adds information advantage through deck inspection, enabling planning and prediction</li>
+          </ul>
+
+          <h3>Rule System Design</h3>
+          <p>
+          I redesigned the ruleset to integrate these mechanics seamlessly into the base game. This included defining draw 
+          scaling, clarifying turn structure changes, and ensuring edge cases were resolved for consistent play.
+          </p>
+
+          <h3>Process & Iteration</h3>
+          <ul>
+            <li>Conducted rapid playtesting cycles within a strict 2-week sprint constraint</li>
+            <li>Iterated on balance and clarity based on player confusion and pacing issues</li>
+            <li>Refined mechanics to ensure they enhanced—not overcomplicated—the base experience</li>
+          </ul>
+
+          <h3>Conclusion</h3>
+          <p>
+          This project highlights my ability to analyze an existing system and introduce meaningful complexity without 
+          sacrificing accessibility. I focused on designing mechanics that expand player agency while maintaining clarity, 
+          demonstrating strong systems thinking under tight production constraints.
+          </p>
+          </div>
+        </div>
+
+        <div class="col-lg-4">
             <div class="portfolio-info">
-              <h3>Project information</h3>
+              <h4>Quick Info</h4>
               <ul>
-                <li><strong>Category</strong>: Board Game</li>
-                <li><strong>Class</strong>: Game Studio I</li>
-                <li><strong>Time Worked</strong>: 2 sprints, 1 week each sprint <br>Jan. '25</br></li>
-                <li><strong>Final Presentation URL</strong>: <a href="https://docs.google.com/presentation/d/1jb6PpOvh32PJZ5ZIEHzglzHl6tOFMNRExKuiRsoMzJg/edit?usp=sharing">Slidedeck showing our final progress</a></li>
+                <li><strong>Platform:</strong> Card Game</li>
+                <li><strong>Duration:</strong> Jan 2025 (2-week sprint)</li>
+                <li><strong>Course:</strong> Game Studio I</li>
+                <li><strong>Role:</strong> Game Designer</li>
+              </ul>
+              <hr class="info-divider">
+              <h4>Links</h4>
+              <ul>
+                <li><strong>Slide Deck:</strong> 
+                  <a href="https://docs.google.com/presentation/d/1jb6PpOvh32PJZ5ZIEHzglzHl6tOFMNRExKuiRsoMzJg/edit?usp=sharing">
+                    View Presentation
+                  </a>
+                </li>
               </ul>
             </div>
-            <div class="portfolio-description">
-              <h2>My Experience</h2>
-              <p>
-                For our first assignment in the class, we were tasked with creating an extension to a pre-existing tabletop game within 2 weeks. It was my role to serve as a primary game designer for the project, working to help create the rules of our game extension, and after deciding we wanted to expand <i>Go Fish!</i>, come up with ability cards that would add new layers of strategy in addition to more interactions with players and the drawdeck.
-                <br><br>
-                We did extensive playtests and in the end I am incredibly proud of what we created. We were able to really turn <i>Go Fish!</i> into a really fun game that I could see modern audiences enjoying!
-                <br><br>
-                So, these are the adjustments I personally worked on:
-                <ul> 
-                  <li>The Siren card: One of the 3 special cards I created, it's description reads: <i>The beautiful tune of the siren’s voice lures fishermen to want to hear your offers! Instead of asking one person for a card, you now ask everyone. If no one has the cards you are looking for, then draw cards equal to the amount of players and end your turn.</i></li>
-                  <li>The Fishing Rod card: The second card I worked on, it's description reads: <i>A rod with a special lure helps you catch unseen fish! Keep drawing from the draw deck until you draw a basic fish. Then shuffle all other cards you just drew back into the deck</i>.</li>
-                  <li>The Sonar card: The last card I worked on, its description reads: <i>This military grade sonar tracker can give you the intel you need! Look at the top 3 cards from the deck and put them back in the same order.</i></li>
-                  <li>The Rules: I was in charge with modifying the original rules of <i>Go Fish!</i> to fit our expansion. So I came up with the rules document shown in the first slide of this webpage which you can see has a table determining starting draw size, explaination of differences in what card you ask for each turn/why, clarification on previously state rules, etc. The background of the doc was created by one of the artists on our team, Charlie.</li>
-                </ul>
-              </p>
-            </div>
-          </div>
-
         </div>
 
       </div>
