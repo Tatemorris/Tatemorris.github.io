@@ -1161,7 +1161,7 @@ section {
   height: 60vh;
   max-height: 520px;
   display: block;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .info-divider {
