@@ -628,6 +628,17 @@ section {
   bottom: 0;
 }
 
+.portfolio-direct-link img {
+  transition: transform 0.25s ease, opacity 0.25s ease;
+  cursor: pointer;
+  display: block;
+}
+
+.portfolio-direct-link:hover img {
+  transform: scale(1.04);
+  opacity: 0.9;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
@@ -1150,6 +1161,12 @@ section {
   height: 60vh;
   max-height: 520px;
   display: block;
-  object-fit: cover;
+  object-fit: contain;
+}
+
+.info-divider {
+  border: none;
+  border-top: 3px solid #0e2442;
+  margin: 20px 0;
 }
 

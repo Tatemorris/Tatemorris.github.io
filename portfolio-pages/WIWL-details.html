@@ -64,9 +64,9 @@
       <nav id="navbar" class="nav-menu navbar">
         <ul>
           <li><a href="../index.html#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="../index.html#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
           <li><a href="../index.html#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
           <li><a href="../index.html#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
-          <li><a href="../index.html#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
           <li><a href="../index.html#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
@@ -110,7 +110,7 @@
               <div class="swiper-wrapper align-items-center">
 
           <div class="swiper-slide">
-            <img class="portfolio-slide-img" src="../assets/img/portfolio/WIWL_poster.png" alt="poster, made by panwithcake">
+            <img class="portfolio-slide-img" src="../assets/img/portfolio/WIWL_poster.png" alt="poster, made by @panwithcake">
           </div>
 
           <div class="swiper-slide">
@@ -126,63 +126,114 @@
             </div>
 
             <div class="portfolio-description">
-              <h2>Project Details</h2>
+              <h3>Intent</h3>
               <p>
-                <i>
-                &emsp;Enter Christina Lyon, a death row inmate falsely accused of the murder of her husband and daughter. 
-                She is taken to a prison run by Charybdis Industries, a corporation secretly experimenting on an amphibious carnivore in a
-                secure laboratory within the same facility. When the subject escapes and goes on a killing spree, Christina wakes to find 
-                herself the sole survivor. 
-              <br><br>
-                &emsp;Now trapped in an abandoned facility with a dangerous creature, Christina must find a way to escape, using the subject’s 
-                attraction to noise to break down walls. Along the way, she will reminisce about the facility’s dead inhabitants and 
-                uncover exactly why the creature was there in the first place.
-                </i>
-              <br><br>
-                &emsp;As the project’s Technical Designer and Lead Designer, I designed and implemented the game’s core mechanic from 
-                prototype through continued development, ensuring the system remained readable, tunable, and scalable for the team. 
-                The central design challenge is deliberate: the monster is both a tool and a threat. Players must create sound to 
-                influence its behavior and direct it toward destructible walls, but any misstep can trigger aggression, a killing swipe, 
-                or an overwhelming screech. This creates a tense, systemic relationship where progression requires calculated risk, 
-                communication, and controlled provocation.
-              <br><br>
-                &emsp;My work centered on building the monster-facing gameplay systems that make this loop possible. I designed the monster’s 
-                AI behavior set, its actions, perception responses, escalation logic, and scream behavior. All of this implemented in Unreal 
-                Engine 5 using parameterized, designer-friendly logic so that other designers and programmers can quickly tune thresholds,
-                timings, ranges, and reactions to match pacing and difficulty targets. In parallel, I designed and implemented a Sanity 
-                mechanic to support the narrative and psychological horror tone, using systemic changes to player perception and 
-                moment-to-moment tension as a storytelling device rather than relying solely on cutscenes.
-              <br><br>
-                &emsp;Beyond the core loop, I implemented supporting stealth and interaction systems, including player hiding, modular object 
-                triggers, and additional progression-facing mechanics that enable encounter scripting and reliable scenario flow. I 
-                documented each mechanic with clear intent, dependencies, tunable parameters, and edge cases to improve handoff and 
-                iteration speed across disciplines. I also presented the project during Champlain’s Greenlight presentations, organized 
-                and hosted playtests, and incorporated feedback into ongoing revisions and balance passes. All work that led to the team nominating me 
-                as Lead Designer for the project.
+              The project was designed around a core tension: forcing the player to rely on a system that is inherently dangerous. 
+              My goal was to create a gameplay loop where progression requires intentional risk-taking, transforming the monster 
+              from a traditional threat into a systemic tool. This design emphasizes player agency, readability, and emergent outcomes 
+              driven by manipulation of AI behavior rather than scripted sequences.
+              </p>
 
-                Overall it has been an honor to serve such a major role in this project and I am excited for when it comes time to present the final iteration of <i>With It We Leave</i> this May.
+              <h3>Gameplay Overview</h3>
+              <p>
+              Players control Christina Lyon, a death row inmate trapped in a corporate prison facility after a biological experiment 
+              escapes containment. The creature is attracted to sound, which the player must generate to influence its movement and 
+              break through blocked paths. However, excessive or poorly timed noise escalates the creature’s aggression, creating a 
+              constant push-pull between control and chaos. Progression is achieved through deliberate provocation, spatial awareness, 
+              and timing.
+              </p>
+
+              <h3>Systems Design & Technical Implementation</h3>
+              <p>
+              My primary contribution was designing and implementing the monster-facing gameplay systems that define the core loop. 
+              This included:
+              </p>
+              <ul>
+                <li>AI behavior architecture (state-driven responses, escalation logic, and attack conditions)</li>
+                <li>Sound-based perception system with tunable thresholds for detection, investigation, and aggression</li>
+                <li>Scream mechanic used as both a punishment and a spatial control disruptor</li>
+                <li>Designer-facing parameterization (ranges, timers, cooldowns, aggression curves) for rapid iteration</li>
+              </ul>
+
+              <p>
+              All systems were built in Unreal Engine 5 using modular, data-driven logic to ensure scalability and cross-discipline 
+              usability. A key priority was readability: designers needed to quickly understand how changes to variables would impact 
+              player experience without requiring engineering support.
+              </p>
+
+              <h3>Supporting Mechanics</h3>
+              <ul>
+                <li>Stealth and hiding systems to give players recovery options within high-tension states</li>
+                <li>Modular interaction triggers for encounter scripting and level design integration</li>
+                <li>Sanity system that alters player perception to reinforce psychological horror through gameplay, not cutscenes</li>
+              </ul>
+
+              <p>
+              The Sanity system in particular was designed as a narrative delivery mechanism through systemic distortion, aligning 
+              mechanics with theme rather than relying on linear storytelling.
+              </p>
+
+              <h3>Process & Collaboration</h3>
+              <p>
+              I approached development iteratively, beginning with rapid prototyping of the sound-to-AI interaction loop and expanding 
+              into a fully tunable system. Playtesting was central to this process:
+              </p>
+              <ul>
+                <li>Organized and hosted playtests to evaluate clarity, difficulty, and player behavior</li>
+                <li>Identified failure points in player understanding and adjusted feedback systems accordingly</li>
+                <li>Balanced aggression thresholds and pacing through repeated iteration cycles</li>
+              </ul>
+
+              <p>
+              I also documented each system with intent statements, dependencies, tunable variables, and edge cases to improve 
+              team-wide usability and iteration speed. In addition, I presented the project during Champlain’s Greenlight process, 
+              advocating for design decisions and incorporating cross-disciplinary feedback.
+              </p>
+
+              <h3>Leadership</h3>
+              <p>
+              Due to my contributions in system design, documentation, and cross-team coordination, I was nominated as Lead Designer. 
+              In this role, I helped align design goals across disciplines, ensured consistency in player experience, and maintained 
+              focus on the project’s core tension throughout development.
+              </p>
+
+              <h3>Conclusion</h3>
+              <p>
+              <em>With It We Leave</em> represents my approach to technical design: building systems that are expressive, tunable, and 
+              deeply tied to player experience. Rather than relying on scripted outcomes, I focus on creating mechanics that generate 
+              emergent tension through interaction. This project demonstrates my ability to translate design intent into functional 
+              systems, collaborate across disciplines, and iterate based on player behavior to achieve a cohesive and compelling result.
               </p>
             </div>
           </div>
 
           <div class="col-lg-4">
             <div class="portfolio-info">
-              <h3>Project information</h3>
+              <h4>Quick Info</h4>
               <ul>
-                <li><strong>Category</strong>: Video Game</li>
+                <li><strong>Platform:</strong> PC (Unreal Engine 5)</li>
+                <li><strong>Duration:</strong> Aug 2025 – May 2026</li>
+                <li><strong>My Role</strong>: Lead Designer/Technical Designer</li>
                 <li><strong>Association</strong>: Capstone Project, Team No Pulse (Champlain College)</li>
                 <li><strong>Time Worked</strong>: months <br>Aug. '25 - May. 10th '26</br></li>
-                <li><strong>Steam Page</strong>: <!--<a href=""> --><i>Coming Soon</a></li>
-                <li><strong>Project Discord</strong>: <!--<a href=""> --><i>Coming Soon</a></li>
-                              <br>
+                <br>
+                  <hr class="info-divider">
+              <h4>Links</h4>
+                <ul>
+                  <li><strong>Itch.io:</strong> <a href="https://withitweleave.itch.io/with-it-we-leave">Play Here</a></li>
+                  <li><strong>Steam:</strong> <i>Coming Soon</i></li>
+                  <li><strong>Project Discord</strong>: <!--<a href=""> --><i>Coming Soon</a></li>
+              <br>
+               <hr class="info-divider">
+              <h4>No Pulse Team Members</h4>
               <i>
-                <b>No Pulse Studio Members: </b> <br>
+                <b>Producers</b><br>
                 Producer: Seth Lyon <br>
-
                 <br><b>Design</b><br>
 
                 Lead Designer/Technical Designer: Tate Morris <br>
-                Level Designers: Erianna Hillard, Zach Norton <br>
+                Game Designer: Zach Norton<br>
+                Level Designers: Erianna Hillard<br>
 
                 <br><b>Programming</b><br>       
 
@@ -204,6 +255,9 @@
                 Lead Sound Designer: Ben Bohoque Jr. <br>
                 Sound Designer: Ellis Harris
 
+                <br><b>Special Thanks<b><br>
+                Marketing: Jannatul Anjum
+                Promotional Artist: @panwithcakes
               </i>
               </ul>
             </div>
