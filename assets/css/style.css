@@ -81,6 +81,12 @@ h6 {
   padding: 0 15px;
   background: #040b14;
   overflow-y: auto;
+  scrollbar-width: none;        /* Firefox */
+  -ms-overflow-style: none;     /* IE/Edge */
+}
+
+#header::-webkit-scrollbar {
+  display: none;                /* Chrome/Safari */
 }
 
 #header .profile img {
