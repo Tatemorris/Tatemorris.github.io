@@ -1,0 +1,19 @@
+9
+TIL
+The ability to find, store, evaluate and synthesize information to answer questions, develop new ones and create new content and knowledge in an ethical and socially responsible manner; the ability to use, manage, assess and understand technology.
+SQL
+The ability to interpret quantitative information, apply appropriate mathematical methods to solve quantitative problems and communicate solutions in the appropriate context; the ability to apply scientific methods to understand the natural world, to identify scientific aspects of daily life, and to evaluate the quality of scientific information on the basis of its source and the methods used for its generation.
+INQ
+The ability to identify, formulate and communicate questions that guide investigation and reflection toward discovery; the ability to critically and thoroughly examine one's own assumptions and the assumptions of others.
+ANA
+The ability to separate and organize complex topics or issues into their component parts, and through a systematic process, to identify and differentiate those components to gain an understanding of the topic or issue.
+INT
+The ability to move from making simple connections among ideas, disciplines and experiences, to synthesizing and transferring learning and data to new, complex situations.
+CRE
+The ability to think, work and respond in ways characterized by a high degree of originality, divergent thinking and risk taking; the ability to combine or synthesize existing ideas, images or expertise (or aspects of these) in ways that are original or that lead to unexpected results.
+COM
+The ability to use reading, thinking, writing and speaking to convey ideas, information and intentions effectively and in a manner that is appropriate to the topic, situation and audience; the ability to interpret accurately and critically the messages produced by others, and to respond appropriately.
+COL
+The ability to work inclusively and productively with a group toward a collective outcome; the ability create an environment where each perspective is considered for the cooperative purpose of making progress toward common goals.
+GCU
+The ability to interact respectfully and effectively in a variety of cultural contexts, to understand how one's actions affect both local and global communities, and to approach the world's most pressing and enduring issues thoughtfully and collaboratively.

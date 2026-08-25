@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|solutionrelative:competencies.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\ccStruct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|solutionrelative:ccStruct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|solutionrelative:course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencyMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|solutionrelative:competencyMap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\collageCompetencies.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|solutionrelative:collageCompetencies.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\classList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|solutionrelative:classList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencies.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|solutionrelative:competencies.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\classes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|solutionrelative:classes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\ccStruct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|solutionrelative:ccStruct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencyList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|solutionrelative:competencyList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencyMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|solutionrelative:competencyMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FE23780-D5C7-E891-A2B6-77D5C11F803E}|Final.vcxproj|solutionrelative:course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "competencies.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencies.cpp",
+              "RelativeDocumentMoniker": "competencies.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencies.cpp",
+              "RelativeToolTip": "competencies.cpp",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAAAMcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T17:46:45.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "course.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\course.cpp",
+              "RelativeDocumentMoniker": "course.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\course.cpp",
+              "RelativeToolTip": "course.cpp",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAAOIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T17:46:21.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ccStruct.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\ccStruct.cpp",
+              "RelativeDocumentMoniker": "ccStruct.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\ccStruct.cpp",
+              "RelativeToolTip": "ccStruct.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T17:46:08.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "competencyMap.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencyMap.cpp",
+              "RelativeDocumentMoniker": "competencyMap.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencyMap.cpp",
+              "RelativeToolTip": "competencyMap.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-15T17:29:39.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ccStruct.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\ccStruct.h",
+              "RelativeDocumentMoniker": "ccStruct.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\ccStruct.h",
+              "RelativeToolTip": "ccStruct.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T17:11:35.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "classes.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\classes.h",
+              "RelativeDocumentMoniker": "classes.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\classes.h",
+              "RelativeToolTip": "classes.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T17:11:34.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "classList.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\classList.h",
+              "RelativeDocumentMoniker": "classList.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\classList.h",
+              "RelativeToolTip": "classList.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T17:11:33.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "collageCompetencies.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\collageCompetencies.h",
+              "RelativeDocumentMoniker": "collageCompetencies.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\collageCompetencies.h",
+              "RelativeToolTip": "collageCompetencies.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T17:11:32.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "competencies.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencies.h",
+              "RelativeDocumentMoniker": "competencies.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencies.h",
+              "RelativeToolTip": "competencies.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T17:11:32.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "competencyList.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencyList.h",
+              "RelativeDocumentMoniker": "competencyList.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencyList.h",
+              "RelativeToolTip": "competencyList.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T17:11:31.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "competencyMap.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencyMap.h",
+              "RelativeDocumentMoniker": "competencyMap.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\competencyMap.h",
+              "RelativeToolTip": "competencyMap.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T17:11:30.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "course.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\course.h",
+              "RelativeDocumentMoniker": "course.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\School Stuff\\Champlain\\Spring 25\\CSI-240\\Final\\course.h",
+              "RelativeToolTip": "course.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-15T17:11:29.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4538 @@
+ACC-135
+Accounting for Decision Making
+ACCT, BSBA, FINA, GMBP, GMPG
+8
+TIL 1
+SQL 3
+INQ 1
+ANA 3
+INT 1
+CRE 1
+COM 1
+COL 2
+ACC-145
+Financial Accounting
+ACCT, FINA
+8
+TIL 1
+SQL 3
+INQ 1
+ANA 3
+INT 1
+CRE 1
+COM 1
+COL 1
+ACC-230
+Intermediate Accounting I
+ACCT, FINA
+5
+TIL 2
+SQL 3
+INQ 1
+ANA 3
+INT 2
+ACC-231
+Intermediate Accounting II
+ACCT, FINA
+7
+TIL 2
+SQL 3
+INQ 1
+ANA 3
+INT 2
+COM 2
+COL 1
+ACC-310
+Federal Taxes I
+
+6
+TIL 1
+SQL 3
+INQ 1
+ANA 3
+INT 2
+GCU 1
+ACC-325
+Fundmentals of Federal Taxation
+ACCT
+7
+TIL 2
+SQL 3
+INQ 3
+ANA 3
+INT 3
+COM 2
+COL 1
+ACC-340
+Cost Accounting I
+
+6
+TIL 3
+SQL 2
+INQ 1
+ANA 3
+INT 2
+COM 1
+ACC-345
+Cost Accounting 
+ACCT
+7
+TIL 1
+SQL 3
+INQ 3
+ANA 3
+INT 3
+CRE 1
+COM 2
+ACC-350
+Accounting Information Systems
+ACCT
+6
+TIL 3
+SQL 2
+INQ 1
+ANA 3
+INT 2
+COM 2
+ACC-370
+Volunteer Income Tax Assistance
+ACCT
+8
+TIL 2
+SQL 1
+INQ 2
+ANA 3
+INT 2
+COM 2
+COL 2
+GCU 1
+ACC-390
+Accounting Internship
+ACCT
+7
+SQL 3
+INQ 2
+ANA 2
+INT 2
+COM 1
+COL 2
+GCU 1
+ACC-400
+Advanced Accounting
+ACCT, FINA
+7
+TIL 2
+SQL 3
+INQ 1
+ANA 3
+INT 2
+COM 2
+GCU 1
+ACC-410
+Federal Taxes II
+
+6
+TIL 1
+SQL 3
+INQ 2
+ANA 3
+INT 2
+COM 1
+ACC-420
+Auditing
+ACCT
+6
+TIL 1
+SQL 3
+INQ 1
+ANA 3
+INT 3
+COM 2
+ART-110
+Drawing, Introductory
+VCDS
+2
+CRE 2
+COM 1
+ART-120
+Art History
+ACCT, GMRT, VCDS
+4
+INQ 3
+INT 2
+COM 2
+GCU 3
+ART-380
+Adv. Art History:Spec. Topics
+VCDS
+5
+INQ 1
+ANA 1
+CRE 3
+COM 3
+GCU 1
+ASU-100
+Introduction to Sustainability
+ASUS
+9
+TIL 1
+SQL 1
+INQ 2
+ANA 2
+INT 2
+CRE 1
+COM 2
+COL 2
+GCU 1
+ASU-150
+Humans and Environment: A Global History of Sustainability
+ASUS
+9
+TIL 1
+SQL 1
+INQ 1
+ANA 1
+INT 1
+CRE 1
+COM 2
+COL 1
+GCU 2
+ASU-200
+Policy&Govern Sustainability
+ASUS
+9
+TIL 2
+SQL 1
+INQ 3
+ANA 3
+INT 2
+CRE 1
+COM 2
+COL 1
+GCU 2
+BDS-117
+Introduction to Broadcast Writing
+
+7
+TIL 1
+INQ 1
+ANA 1
+CRE 2
+COM 3
+COL 2
+GCU 2
+BLW-140
+Business Law
+
+9
+TIL 1
+SQL 1
+INQ 2
+ANA 2
+INT 2
+CRE 1
+COM 1
+COL 1
+GCU 1
+BRD-110
+Video Storytelling
+BRMP, DHMS, MKCM
+2
+COM 2
+COL 2
+BRD-130
+Audio Production
+BRMP, GMSD
+2
+TIL 2
+COM 2
+BRD-140
+Radio Production I
+BRMP
+8
+TIL 2
+INQ 2
+ANA 2
+INT 2
+CRE 3
+COM 2
+COL 2
+GCU 2
+BRD-217
+Brd Wrtng & Prod
+BRMP
+8
+TIL 2
+INQ 1
+ANA 1
+INT 2
+CRE 2
+COM 3
+COL 3
+GCU 2
+BRD-230
+Production of Social Media
+BRMP, MKCM
+6
+INQ 2
+ANA 2
+INT 2
+COM 2
+COL 2
+GCU 2
+BRD-240
+Podcasting
+
+8
+TIL 3
+INQ 1
+ANA 2
+INT 2
+CRE 3
+COM 3
+COL 3
+GCU 2
+BRD-247
+Multi-Cam Production
+BRMP
+7
+TIL 2
+ANA 1
+INT 2
+CRE 2
+COM 3
+COL 3
+GCU 2
+BRD-250
+Show Producing I
+BRMP
+8
+TIL 1
+INQ 2
+ANA 2
+INT 2
+CRE 2
+COM 3
+COL 3
+GCU 3
+BRD-330
+Advanced Audio & Sound Design
+BRMP, GMSDGMSD
+4
+TIL 2
+ANA 2
+INT 2
+CRE 2
+BRD-347
+Advanced Field Production
+
+7
+TIL 2
+ANA 2
+INT 2
+CRE 3
+COM 3
+COL 2
+GCU 3
+BRD-350
+Show Producing II
+BRMP
+9
+TIL 2
+SQL 1
+INQ 2
+ANA 2
+INT 2
+CRE 2
+COM 2
+COL 2
+GCU 2
+BRD-380
+Truth in the Era of Fake News
+
+7
+TIL 2
+INQ 3
+ANA 3
+INT 2
+COM 3
+COL 2
+GCU 3
+BRD-400
+Program Development & Production
+BRMP
+8
+TIL 3
+INQ 2
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 2
+BRD-445
+Client-Based Production
+BRMP
+7
+INQ 2
+ANA 2
+INT 2
+CRE 2
+COM 2
+COL 2
+GCU 2
+BRD-450
+Media History: The Cultural Impact of Television
+
+7
+INQ 2
+ANA 2
+INT 2
+CRE 1
+COM 3
+COL 1
+GCU 2
+BUS-110
+Biz & Entrepreneurial Mindset
+ACCT, FINA, GMBP, GMPG, MKTG
+7
+INQ 3
+ANA 2
+INT 3
+CRE 3
+COM 2
+COL 2
+GCU 1
+BUS-115
+Corporate Social Responsibil.
+
+5
+TIL 1
+SQL 3
+INQ 1
+ANA 1
+INT 1
+BUS-120
+Int'l Bus. & Macroeconomics
+ACCT, FINA, GMBP, GMPG, APDV
+8
+TIL 1
+INQ 2
+ANA 2
+INT 2
+CRE 1
+COM 2
+COL 2
+GCU 1
+BUS-210
+Corporate Social Responsibility
+ACCT, FINA, GMPG
+6
+INQ 3
+ANA 2
+INT 1
+COM 2
+COL 1
+GCU 3
+BUS-310
+International Bus. and Macroeconomics
+ACCT, FINA, GMPG, MKTG
+8
+TIL 2
+SQL 1
+INQ 2
+ANA 3
+INT 3
+COM 2
+COL 1
+GCU 3
+CCC-310
+Integrative Film Practices
+FILM
+8
+TIL 1
+INQ 2
+ANA 2
+INT 3
+CRE 1
+COM 3
+COL 1
+GCU 3
+CCC-410
+College Capstone
+
+9
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 3
+CCC-410ACC
+Accounting Capstone
+
+8
+TIL 1
+SQL 2
+ANA 3
+INT 2
+CRE 3
+COM 3
+COL 2
+GCU 2
+CCC-410BRD
+Broadcast Media Capstone
+
+9
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 3
+CCC-410COM
+Communication Capstone
+
+8
+TIL 1
+INQ 2
+ANA 1
+INT 2
+CRE 2
+COM 3
+COL 2
+GCU 1
+CCC-410CRE
+Creative Media Capstone
+
+9
+TIL 3
+SQL 1
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 1
+GCU 2
+CCC-410CRJ
+Crimincal Justice Capstone
+
+8
+TIL 3
+INQ 3
+ANA 3
+INT 2
+CRE 1
+COM 3
+COL 1
+GCU 2
+CCC-410EDU
+Education Capstone- Student Teaching
+
+7
+INQ 3
+ANA 3
+INT 3
+CRE 1
+COM 3
+COL 3
+GCU 3
+CCC-410GMS
+Game Sound Capstone
+
+9
+TIL 3
+SQL 1
+INQ 3
+ANA 3
+INT 3
+CRE 2
+COM 3
+COL 3
+GCU 3
+CCC-410GAA
+Game Art Capstone
+
+8
+TIL 3
+SQL 3
+INQ 2
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 3
+CCC-410GMD
+Game Design Capstone
+
+9
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 3
+CCC-410FIN
+Finance Capstone
+
+8
+TIL 2
+SQL 3
+INQ 2
+ANA 3
+INT 3
+CRE 1
+COM 2
+COL 2
+CCC-410FLM
+Filmmaking Capstone
+
+8
+TIL 3
+INQ 2
+ANA 1
+INT 3
+CRE 3
+COM 3
+COL 2
+GCU 2
+CCC-410INT
+
+
+9
+TIL 2
+SQL 2
+INQ 3
+ANA 3
+INT 2
+CRE 1
+COM 1
+COL 1
+GCU 3
+CCC-410MTH
+Math Capstone Design
+
+8
+TIL 2
+SQL 3
+INQ 2
+ANA 1
+INT 2
+CRE 1
+COM 3
+COL 1
+CCC-410ITS
+ITS Capstone Design
+
+8
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 2
+CCC-410IXD
+Interaction Design Capstone
+
+9
+TIL 3
+SQL 1
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 2
+CCC-410MKC
+Marketing Communication Capstone
+
+8
+TIL 2
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 2
+CCC-410MKT
+Marketing Capstone
+
+6
+TIL 3
+INQ 2
+ANA 2
+INT 3
+CRE 2
+GCU 1
+CCC-410PSY
+Psychology Capstone
+
+8
+TIL 2
+SQL 1
+INQ 3
+ANA 2
+INT 3
+CRE 3
+COM 1
+GCU 1
+CCC-410ASU
+Applied Sustainability Capstone
+
+0
+CCC-410SWK
+Social Work Capstone
+
+9
+TIL 2
+SQL 2
+INQ 2
+ANA 1
+INT 3
+CRE 3
+COM 3
+COL 1
+GCU 1
+CCC-410WRT
+Writing and Publishing Capstone
+
+8
+TIL 1
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 2
+GCU 1
+CCC-411
+
+
+6
+TIL 3
+INQ 3
+ANA 3
+CRE 3
+COM 3
+GCU 3
+CCC-411
+
+
+8
+SQL 3
+INQ 2
+ANA 1
+INT 2
+CRE 1
+COM 3
+COL 1
+GCU 1
+CCC-411FIN
+College Capstone - Finance
+
+8
+TIL 2
+SQL 3
+INQ 2
+ANA 3
+INT 3
+CRE 1
+COM 2
+COL 2
+CCC-412IXDS
+Capstone Snr Project:IXDS
+
+9
+TIL 3
+SQL 1
+INQ 2
+ANA 2
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 2
+CCC-412ITS
+ITS Capstone Snr Project:CSIN
+
+9
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 2
+GCU 1
+CCC-412MTH
+ITS Capstone Snr Project:MATH
+
+8
+TIL 2
+SQL 3
+INQ 2
+ANA 1
+INT 2
+CRE 1
+COM 3
+COL 3
+CCM-493IXDS
+Comm & Media Internship
+
+7
+INQ 1
+ANA 1
+INT 2
+CRE 3
+COM 3
+COL 2
+GCU 3
+CCM-493PWRT
+Comm & Media Internship
+
+4
+INQ 2
+INT 3
+CRE 2
+COM 2
+CCM-493BRMP
+Comm & Media Internship
+BRMP, MKCM
+4
+INT 2
+CRE 2
+COM 2
+COL 2
+CIT-130
+
+
+4
+INQ 1
+ANA 3
+INT 2
+COM 1
+COM-100
+Human Communication, Foundat.
+ASUS, GMBP
+0
+COM-110
+Public Speaking
+DATA, LAW
+8
+TIL 2
+INQ 1
+ANA 3
+INT 1
+CRE 2
+COM 3
+COL 2
+GCU 1
+COM-120
+Media and Society
+BRMP, MKCM, PWRT
+6
+TIL 3
+INQ 3
+ANA 2
+INT 1
+COM 3
+GCU 1
+COM-210
+Principles of Public Relations
+MKCM
+8
+TIL 1
+INQ 2
+ANA 2
+INT 3
+CRE 2
+COM 3
+COL 1
+GCU 2
+COM-220
+Communication and Ethics
+
+7
+TIL 1
+INQ 3
+ANA 2
+INT 3
+CRE 1
+COM 3
+GCU 2
+COM-230
+Small Group Communication
+
+4
+INQ 1
+COM 3
+COL 3
+GCU 1
+COM-230
+Small Group Communication
+
+4
+INQ 2
+ANA 3
+COM 3
+COL 3
+COM-270
+Intercultural Communication
+
+5
+INQ 3
+ANA 2
+INT 2
+COM 3
+GCU 3
+COM-305
+Creativity & Conceptual Development
+
+7
+TIL 1
+INQ 2
+ANA 2
+INT 3
+CRE 3
+COM 3
+COL 2
+COM-310
+Persuasion
+
+7
+TIL 1
+INQ 1
+ANA 2
+INT 1
+CRE 3
+COM 3
+COL 2
+COM-311
+Writing for Public Relations
+MKCM
+8
+TIL 3
+INQ 2
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 2
+GCU 1
+COM-315
+Contemporary Media Issues
+
+8
+TIL 2
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 2
+COL 2
+GCU 1
+COM-355
+Prof. Communication Practices
+BRMP, MKCM
+4
+TIL 1
+INQ 2
+CRE 1
+COM 1
+COM-360
+Social Interaction in the Digital Age
+
+6
+INQ 2
+ANA 2
+INT 2
+COM 2
+COL 1
+GCU 1
+COM-365
+Legal Issues in Communication
+MKTG
+0
+COM-400
+Public Relations Campaign Dev
+MKCM
+9
+TIL 3
+SQL 1
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 1
+COM-475
+Communication Field Practicum
+MKCM
+4
+TIL 1
+INQ 2
+CRE 2
+COM 3
+COM-490
+Media Communication Internship
+
+6
+INQ 2
+ANA 2
+INT 1
+CRE 2
+COM 3
+COL 2
+COR-101
+Navigating Higher Education
+
+7
+TIL 1
+INQ 2
+ANA 3
+INT 2
+COM 1
+COL 1
+GCU 1
+COR-102
+FYI: Reading & Writing
+
+6
+TIL 2
+INQ 3
+ANA 3
+INT 2
+COM 3
+GCU 1
+COR-103
+Navigating Information
+
+6
+TIL 3
+INQ 1
+ANA 1
+INT 1
+COM 3
+COL 2
+COR-104
+FYI: Making/Doing
+
+7
+TIL 1
+INQ 1
+ANA 1
+INT 3
+CRE 2
+COM 2
+COL 3
+COR-201
+Science Meaning Making
+
+7
+TIL 2
+SQL 3
+INQ 3
+ANA 3
+INT 2
+CRE 1
+GCU 1
+COR-202
+Interdisciplinary Perspectives
+
+8
+TIL 2
+INQ 3
+ANA 2
+INT 3
+CRE 1
+COM 1
+COL 3
+GCU 1
+COR-203
+Culture Meaning Making
+
+7
+TIL 2
+INQ 2
+ANA 3
+INT 2
+CRE 1
+COM 3
+GCU 3
+COR-204
+Theoretical Perspectives
+
+6
+TIL 1
+INQ 3
+ANA 3
+INT 2
+COM 1
+GCU 3
+COR-301
+Connecting Place & Identity
+
+7
+TIL 1
+SQL 1
+INQ 1
+ANA 2
+INT 2
+COM 3
+GCU 3
+COR-302
+Field Methods
+
+8
+TIL 1
+SQL 2
+INQ 2
+ANA 3
+INT 2
+COM 2
+COL 1
+GCU 2
+COR-303
+Past&Present
+
+6
+TIL 1
+INQ 1
+ANA 2
+INT 2
+COM 1
+GCU 3
+COR-304
+Digital Methods
+
+7
+TIL 1
+SQL 1
+INQ 2
+ANA 3
+INT 1
+COM 1
+GCU 1
+CRE-100
+Making Art
+CREM
+7
+INQ 3
+ANA 1
+INT 1
+CRE 3
+COM 2
+COL 1
+GCU 1
+CRE-125
+Integrated Studio Foundations
+CREM
+8
+TIL 3
+SQL 1
+INQ 1
+ANA 1
+INT 2
+CRE 2
+COM 3
+COL 3
+CRE-180
+Making Culture
+CREM
+7
+TIL 1
+INQ 3
+ANA 2
+INT 2
+CRE 1
+COM 2
+GCU 2
+CRE-200
+Creative Media Salon I
+
+7
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 1
+COL 2
+GCU 3
+CRE-225
+Art and Social Engagement
+CREM
+8
+TIL 2
+INQ 3
+ANA 3
+INT 2
+CRE 3
+COM 3
+COL 3
+GCU 1
+CRE-240
+Creative Media Prof Pract I
+CREM
+5
+TIL 2
+INQ 3
+ANA 3
+INT 2
+COM 3
+CRE-250
+Creative Media Projects I
+
+7
+INQ 2
+ANA 1
+INT 2
+CRE 3
+COM 2
+COL 1
+GCU 1
+CRE-250
+Creative Media Projects I
+
+7
+INQ 2
+ANA 1
+INT 2
+CRE 2
+COM 2
+COL 2
+GCU 2
+CRE-300
+Creative Media Salon II
+
+5
+INQ 3
+ANA 2
+INT 3
+CRE 1
+COM 1
+CRE-310
+Art and Global Perspectives
+CREM
+8
+TIL 2
+INQ 2
+ANA 2
+INT 3
+CRE 3
+COM 3
+COL 1
+GCU 3
+CRE-350
+Creative Media Portfolio 2
+CREM
+7
+INQ 2
+ANA 1
+INT 2
+CRE 3
+COM 2
+COL 1
+GCU 1
+CRE-400
+Creative Media Prof Pract II
+CREM
+5
+TIL 1
+INQ 1
+ANA 1
+COM 3
+GCU 1
+CRJ-100
+
+
+7
+TIL 2
+SQL 1
+INQ 3
+ANA 3
+INT 2
+COM 2
+GCU 1
+CRJ-120
+Criminal Law
+DIGF, CRCJ
+6
+TIL 3
+INQ 3
+ANA 3
+INT 3
+COM 2
+GCU 1
+CRJ-121
+Criminal Procedure
+CRCJ, LAW
+6
+TIL 2
+INQ 3
+ANA 3
+INT 2
+COM 3
+GCU 2
+CRJ-225
+Digital Evidence: Law of
+DIGF
+0
+CRJ-230
+Criminal Investigation
+
+7
+TIL 2
+SQL 1
+INQ 3
+ANA 3
+INT 1
+COM 3
+GCU 1
+CRJ-240
+Family Violence: Crisis and Justice
+
+7
+TIL 3
+SQL 2
+INQ 3
+ANA 3
+INT 3
+COM 2
+GCU 3
+CRJ-270
+Police Operations & Supervision
+
+7
+TIL 2
+INQ 3
+ANA 2
+INT 2
+COM 2
+COL 1
+GCU 2
+CRJ-310
+Investigative Interviewing
+
+5
+TIL 3
+INQ 3
+ANA 3
+INT 3
+COM 3
+CRJ-490
+Criminal Justice Field Exp
+
+8
+TIL 2
+INQ 3
+ANA 3
+INT 3
+CRE 2
+COM 2
+COL 2
+GCU 1
+CSI-120
+Intro to Mobile & Web Dev
+CSIN, APDV
+6
+TIL 3
+INQ 1
+ANA 3
+CRE 1
+COM 1
+GCU 3
+CSI-140
+Introduction to Programming
+CSIN, GDES, GPRO
+5
+TIL 3
+SQL 2
+ANA 3
+CRE 1
+GCU 2
+CSI-160
+Python Programming
+DIGF, CNCS, DATA, DHMS, IXDS, APDV
+3
+TIL 1
+SQL 2
+ANA 1
+CSI-180
+Innov I: Technology Sandbox
+CSIN
+6
+TIL 3
+INQ 3
+ANA 3
+INT 1
+COM 3
+GCU 3
+CSI-230
+Linux/Unix Programming
+CSIN
+4
+TIL 3
+SQL 1
+ANA 2
+INT 3
+CSI-235
+Network Programming
+
+3
+TIL 3
+SQL 1
+ANA 2
+CSI-240
+Advanced Programming
+CSIN, GPRO
+5
+TIL 3
+SQL 2
+INQ 3
+ANA 3
+CRE 1
+CSI-260
+Advanced Python
+DIGF, DATA, APDV
+5
+TIL 3
+SQL 2
+INQ 3
+ANA 3
+CRE 1
+CSI-280
+Innov II:Open Source Soft Dev
+CSIN
+7
+TIL 3
+INQ 1
+ANA 2
+INT 2
+COM 1
+COL 3
+GCU 2
+CSI-281
+Data Structures & Algorithms
+CSIN, GPRO
+6
+TIL 3
+SQL 3
+INQ 3
+ANA 2
+COM 1
+COL 1
+CSI-300
+Database Management Systems
+CSIN, DATA, APDV
+5
+TIL 3
+SQL 1
+INQ 1
+INT 3
+CRE 1
+CSI-320
+Global IT & Ethics
+CSIN, DATA,
+7
+TIL 3
+INQ 3
+ANA 2
+INT 1
+COM 3
+COL 1
+GCU 3
+CSI-35x
+
+
+5
+TIL 3
+SQL 1
+INQ 1
+ANA 1
+INT 2
+CSI-370
+Computer Architecture
+CSIN
+6
+TIL 3
+SQL 2
+ANA 3
+INT 2
+CRE 1
+COM 1
+CSI-380
+Innovation III: Emerging Languages
+CSIN
+5
+TIL 3
+INQ 1
+ANA 3
+INT 3
+COM 1
+CSI-430
+Software Testing, Qa & Security
+
+6
+TIL 3
+INQ 3
+ANA 3
+INT 3
+COM 2
+COL 2
+CSI-480
+Innovation IV: Topics in AI
+CSIN
+7
+TIL 3
+SQL 1
+INQ 1
+ANA 2
+INT 3
+CRE 2
+COM 2
+DAT-210
+Introduction to Data Analytics
+DATA
+9
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 2
+COL 2
+GCU 2
+DAT-310
+Advanced Data Analytics
+DATA
+9
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 2
+COL 2
+GCU 2
+DAT-330
+Data Mining
+DATA
+9
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 2
+CRE 2
+COM 1
+COL 1
+GCU 1
+DAT-410
+Machine Learning
+DATA
+9
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 2
+CRE 2
+COM 1
+COL 1
+GCU 1
+DAT-420
+Forecasting & Predictive Anly.
+DATA
+0
+DAT-430
+Data Visualization
+DATA
+9
+TIL 3
+SQL 2
+INQ 3
+ANA 3
+INT 2
+CRE 2
+COM 3
+COL 1
+GCU 1
+ECN-255
+Managerial Economics
+ACCT, BSBA, DATA, FINA, GMBP, GMPG
+9
+TIL 2
+SQL 3
+INQ 3
+ANA 3
+INT 2
+CRE 1
+COM 2
+COL 2
+GCU 1
+EDU-105
+Foundations of Learning and Practicum
+
+5
+INQ 2
+ANA 2
+COM 2
+COL 1
+GCU 1
+EDU-110
+Found. of Learning & Teaching
+EDUC
+5
+INQ 2
+ANA 2
+INT 1
+COL 2
+GCU 2
+EDU-112
+Integrating Technology
+
+8
+TIL 3
+INQ 2
+ANA 2
+INT 2
+CRE 1
+COM 1
+COL 1
+GCU 2
+EDU-115
+Learning Theory
+
+7
+INQ 2
+ANA 2
+INT 2
+CRE 1
+COM 3
+COL 1
+GCU 2
+EDU-125
+Children's Lit&Expressive Art
+
+4
+ANA 1
+INT 2
+CRE 3
+COM 1
+EDU-135
+Teaching Diverse Learners
+
+5
+INQ 3
+ANA 3
+INT 2
+COM 1
+GCU 2
+EDU-150
+Reading and Language Development
+
+6
+ANA 3
+INT 2
+CRE 1
+COM 2
+COL 1
+GCU 2
+EDU-160
+Math & Science for Yng. Chldn
+
+5
+SQL 2
+INQ 2
+ANA 2
+INT 1
+COM 1
+EDU-205
+Infant/Toddler Seminar & Practicum
+
+6
+INQ 2
+ANA 2
+INT 2
+COM 2
+COL 2
+GCU 2
+EDU-230
+Content Literacy
+
+6
+TIL 1
+INQ 3
+ANA 2
+INT 3
+COM 2
+COL 1
+EDU-245
+Service Learning
+
+7
+INQ 3
+ANA 1
+INT 3
+CRE 3
+COM 1
+COL 2
+GCU 3
+EDU-250
+Preschool Curriculum
+
+6
+INQ 2
+ANA 2
+INT 2
+COM 1
+COL 1
+GCU 1
+EDU-251
+Preschool Field Experience
+
+5
+ANA 1
+INT 2
+COM 3
+COL 2
+GCU 2
+EDU-255
+Primary Curriculum
+
+6
+INQ 2
+ANA 2
+INT 3
+COM 1
+COL 1
+GCU 1
+EDU-256
+Primary Field Experience
+
+5
+ANA 2
+INT 2
+COM 3
+COL 2
+GCU 2
+EDU-310
+Elementary Language Arts
+
+6
+TIL 1
+INQ 3
+ANA 3
+INT 3
+COM 2
+COL 2
+EDU-311
+Elementary Science Methods
+
+6
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 3
+COM 3
+EDU-312
+Elementary Math Methods
+
+5
+SQL 3
+INQ 3
+ANA 3
+INT 2
+COM 2
+EDU-313
+Elementary Social Studies Methods
+
+8
+TIL 1
+INQ 3
+ANA 2
+INT 2
+CRE 1
+COM 2
+COL 1
+GCU 2
+EDU-315
+Middle School Organization
+
+5
+INQ 3
+ANA 2
+INT 2
+COM 3
+COL 1
+EDU-320
+Managing the Learning Env.
+
+6
+INQ 3
+ANA 3
+INT 3
+COM 3
+COL 3
+GCU 1
+EDU-332
+Middle Secondary Teach Method
+
+8
+TIL 2
+INQ 3
+ANA 2
+INT 3
+CRE 1
+COM 2
+COL 1
+GCU 2
+EDU-335
+Curric. Design & Diff Instruc.
+
+8
+SQL 1
+INQ 2
+ANA 2
+INT 3
+CRE 1
+COM 2
+COL 1
+GCU 3
+EDU-425
+Reflective Practices in Educ.
+EDUC
+7
+INQ 2
+ANA 3
+INT 3
+CRE 1
+COM 1
+COL 1
+GCU 1
+EDU-490
+Integrated Curr & Student Teac
+EDUC
+9
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 3
+EGD-102
+Game History
+GMRT, GMBP, GDES, GMPG, GMSD
+6
+SQL 2
+INT 3
+CRE 3
+COM 1
+COL 1
+GCU 2
+EGD-220
+Game Studio I
+GDES, GMPG, GPRO
+9
+TIL 3
+SQL 1
+INQ 2
+ANA 3
+INT 2
+CRE 1
+COM 3
+COL 3
+GCU 2
+EGD-220GART
+Game Studio I
+GMRT
+7
+SQL 3
+INQ 1
+INT 2
+CRE 3
+COM 2
+COL 1
+GCU 3
+EGD-240
+Creative Portfolio Tools
+GMBP, GDES, GMPG, GPRO, INAR
+6
+TIL 1
+INQ 2
+ANA 2
+INT 3
+COM 3
+GCU 2
+EGD-240GART
+Creative Portfolio Tools
+ANIM, GMRT
+5
+SQL 2
+INT 2
+CRE 2
+COM 3
+GCU 3
+EGD-320
+Game Studio II
+GMBP, GDES, GMPG, GPRO
+9
+TIL 3
+SQL 1
+INQ 2
+ANA 3
+INT 2
+CRE 2
+COM 3
+COL 3
+GCU 1
+EGD-320GART
+Game Studio II
+GMRT
+7
+SQL 3
+INQ 1
+INT 2
+CRE 3
+COM 3
+COL 1
+GCU 3
+EGD-380
+Advanced Seminar
+
+7
+TIL 3
+SQL 1
+INQ 2
+ANA 2
+INT 2
+CRE 2
+COM 1
+EGD-380EGD
+
+
+7
+TIL 3
+SQL 1
+INQ 2
+ANA 2
+INT 2
+CRE 2
+COM 1
+EGD-420
+Game Studio III
+GMRT, GMBP
+9
+TIL 2
+SQL 1
+INQ 2
+ANA 3
+INT 2
+CRE 3
+COM 3
+COL 3
+GCU 1
+EGD-420
+Game Studio III
+GDES, GMPG, GPRO
+9
+TIL 2
+SQL 1
+INQ 2
+ANA 3
+INT 2
+CRE 3
+COM 3
+COL 3
+GCU 1
+EGD-420
+Game Studio III
+
+7
+SQL 3
+INQ 1
+INT 3
+CRE 3
+COM 3
+COL 2
+GCU 3
+EHS-100
+Making Connections
+ASUS, CRCJ, EDUC, LAW, PSYC, SOWK
+3
+INQ 3
+ANA 3
+INT 3
+EHS-200
+Hot Topics Seminar
+
+3
+INQ 3
+ANA 3
+INT 3
+EHS-210
+Social Justice Intensive
+CRCJ, EDUC, LAW, PSYC, SOWK
+4
+INQ 3
+ANA 3
+INT 3
+COL 2
+FIN-240
+Financial Management I
+ACCT, BSBA, FINA, GMPG, MKTG
+5
+TIL 1
+SQL 3
+INQ 1
+ANA 2
+INT 1
+FIN-300
+Investments
+FINA
+7
+TIL 2
+SQL 3
+INQ 2
+ANA 3
+INT 2
+CRE 1
+COM 1
+FIN-310
+Applied Regression Analysis
+
+7
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 3
+CRE 1
+COM 1
+FIN-340
+Financial Management II
+FINA
+7
+TIL 1
+SQL 3
+INQ 2
+ANA 3
+INT 1
+COM 2
+COL 1
+FIN-410
+Advanced Investment Topics
+
+7
+TIL 2
+SQL 3
+INQ 3
+ANA 3
+INT 3
+COM 2
+COL 1
+FLM-100
+Film Studies: Screenings
+FILM
+5
+INQ 1
+ANA 2
+INT 1
+COM 2
+GCU 3
+FLM-110
+Filmmaking, Intro to
+FILM
+8
+TIL 1
+INQ 3
+ANA 1
+INT 2
+CRE 3
+COM 3
+COL 3
+GCU 2
+FLM-125
+Audio Production for Film
+FILM
+7
+TIL 3
+ANA 1
+INT 1
+CRE 2
+COM 2
+COL 3
+GCU 1
+FLM-128
+Screenwriting I
+ANIM, FILM
+8
+TIL 1
+INQ 3
+ANA 1
+INT 2
+CRE 3
+COM 3
+COL 1
+GCU 1
+FLM-210
+Film History
+FILM
+5
+INQ 1
+ANA 2
+INT 1
+COM 2
+GCU 1
+FLM-211
+Film History II
+FILM
+5
+INQ 1
+ANA 2
+INT 1
+COM 2
+GCU 1
+FLM-215
+Filmmaking I
+FILM
+7
+TIL 1
+INQ 2
+INT 1
+CRE 3
+COM 2
+COL 3
+GCU 2
+FLM-225
+Cinematography and Lighting
+FILM
+8
+TIL 3
+SQL 2
+INQ 1
+ANA 1
+INT 1
+CRE 3
+COM 2
+COL 3
+FLM-230
+Audio & Video Editing
+FILM
+9
+TIL 3
+SQL 1
+INQ 1
+ANA 3
+INT 3
+CRE 2
+COM 3
+COL 2
+GCU 1
+FLM-260
+Documentary Filmmaking
+FILM
+9
+TIL 1
+SQL 1
+INQ 3
+ANA 1
+INT 3
+CRE 2
+COM 3
+COL 2
+GCU 3
+FLM-285
+Direct. & Act. for the Screen
+FILM
+7
+INQ 1
+ANA 1
+INT 1
+CRE 2
+COM 3
+COL 3
+GCU 1
+FLM-301
+Topics in Cinema
+FILM
+6
+TIL 1
+INQ 2
+ANA 3
+INT 2
+COM 2
+GCU 3
+FLM-310
+Production Management
+
+6
+TIL 2
+ANA 3
+INT 1
+CRE 2
+COM 3
+COL 3
+FLM-315
+Filmmaking II
+FILM
+9
+TIL 1
+SQL 1
+INQ 1
+ANA 2
+INT 3
+CRE 3
+COM 3
+COL 1
+GCU 2
+FLM-320
+The Business of Film
+
+8
+TIL 1
+INQ 1
+ANA 3
+INT 1
+CRE 1
+COM 3
+COL 3
+GCU 1
+FLM-328
+Screenwriting II
+
+8
+TIL 1
+INQ 3
+ANA 3
+INT 2
+CRE 3
+COM 3
+COL 3
+GCU 2
+FLM-330
+Video Comp & Special Effects
+FILM
+8
+TIL 3
+SQL 1
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 1
+GCU 1
+FLM-360
+Documentary Filmmaking II
+
+9
+TIL 1
+SQL 1
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 3
+FLM-410
+Senior Portfolio
+
+8
+TIL 1
+INQ 2
+ANA 1
+INT 3
+CRE 3
+COM 2
+COL 1
+GCU 1
+FOR-100
+Intro to Cybercrime & DF
+DIGF, CRCJ
+4
+TIL 2
+ANA 1
+COM 1
+COL 2
+FOR-120
+Intro. to DF Analysis
+DIGF
+7
+TIL 3
+SQL 1
+INQ 3
+ANA 2
+INT 1
+COM 2
+GCU 1
+FOR-210
+Intro OS & Incident Response
+DIGF
+6
+TIL 2
+SQL 3
+INQ 2
+ANA 2
+COM 2
+COL 2
+FOR-230
+Operating System Forensics I
+DIGF
+7
+TIL 2
+INQ 3
+ANA 2
+INT 2
+CRE 1
+COM 3
+COL 1
+FOR-300
+Special Topics in DF
+
+2
+TIL 2
+ANA 2
+FOR-310
+Mobile Device Forensics
+
+5
+TIL 2
+INQ 3
+ANA 2
+COM 3
+GCU 2
+FOR-330
+Operating System Forensics II
+DIGF
+5
+TIL 2
+INQ 3
+ANA 2
+INT 2
+COM 3
+FOR-350
+Malware Analysis & IR
+DIGF
+6
+TIL 2
+INQ 2
+ANA 3
+INT 3
+COM 3
+GCU 3
+FOR-360
+Python Forensics
+
+7
+TIL 2
+SQL 2
+INQ 2
+ANA 2
+INT 3
+COM 3
+GCU 3
+FOR-370
+File System Forensics
+DIGF
+7
+TIL 3
+SQL 2
+INQ 1
+ANA 3
+CRE 2
+COM 2
+GCU 1
+FOR-380
+Anti-Forensics
+
+7
+TIL 3
+SQL 2
+INQ 2
+ANA 2
+CRE 2
+COM 2
+GCU 1
+FOR-420
+E-Discovery and Data Analysis
+
+6
+TIL 1
+SQL 2
+INQ 1
+ANA 2
+COL 2
+GCU 1
+FOR-440
+Net. Forensics&Threat Hunting
+DIGF
+6
+TIL 3
+INQ 3
+ANA 3
+INT 3
+COM 3
+GCU 3
+FOR-450
+Advanced Malware Analysis
+DIGF
+7
+TIL 2
+SQL 2
+INQ 3
+ANA 3
+INT 3
+COM 3
+GCU 3
+FOR-470
+
+
+0
+FOR-480
+Digital Forensic Practicum
+DIGF
+9
+TIL 2
+SQL 2
+INQ 3
+ANA 2
+INT 2
+CRE 1
+COM 3
+COL 2
+GCU 1
+FOR-490
+Forensics Internship
+
+6
+INQ 2
+ANA 2
+INT 2
+COM 3
+COL 3
+GCU 1
+GAA-105
+Intro to 2D Digital Art
+ANIM, GMRT
+5
+INT 1
+CRE 1
+COM 1
+COL 2
+GCU 1
+GAA-125
+Drawing for Realism I
+ANIM, GMRT
+4
+INT 1
+CRE 1
+COL 1
+GCU 2
+GAA-135
+Intro 3D Modeling & Texturing
+ANIM, GMRT
+4
+INQ 1
+CRE 1
+COL 2
+GCU 2
+GAA-175
+Intro to Animation
+ANIM, GMRT
+6
+SQL 1
+INQ 1
+INT 1
+CRE 1
+COL 2
+GCU 2
+GAA-205
+2D Game Art
+GMRT
+7
+SQL 1
+INQ 1
+INT 1
+CRE 2
+COM 2
+COL 2
+GCU 2
+GAA-225
+Drawing for Realism II
+ANIM, GMRT
+6
+SQL 1
+INQ 1
+INT 1
+CRE 2
+COL 2
+GCU 1
+GAA-235
+3D Modeling
+GMRT
+6
+SQL 1
+INQ 1
+INT 1
+CRE 2
+COL 2
+GCU 1
+GAA-245
+Concept Painting, Foundations
+GMRT
+6
+SQL 1
+INT 1
+CRE 1
+COM 1
+COL 3
+GCU 1
+GAA-255
+3D Modeling II
+
+7
+SQL 1
+INQ 1
+INT 1
+CRE 2
+COM 2
+COL 3
+GCU 2
+GAA-275
+3D Animation I
+ANIM
+6
+INQ 1
+INT 2
+CRE 1
+COM 1
+COL 3
+GCU 1
+GAA-345
+3D Character Development
+
+6
+SQL 1
+INT 2
+CRE 2
+COM 2
+COL 3
+GCU 1
+GAA-350
+Procedural Material Development
+
+6
+INQ 2
+INT 2
+CRE 2
+COM 2
+COL 3
+GCU 1
+GAA-355
+Game Environments
+
+7
+SQL 1
+INQ 1
+INT 1
+CRE 1
+COM 2
+COL 3
+GCU 1
+GAA-360
+Procedural 3D Modeling
+
+7
+SQL 1
+INQ 3
+INT 2
+CRE 2
+COM 2
+COL 3
+GCU 1
+GAA-375
+3D Animation II
+
+7
+SQL 1
+INQ 1
+INT 1
+CRE 1
+COM 1
+COL 3
+GCU 1
+GAA-380
+Adv Sem: MoCap Animation
+
+7
+SQL 1
+INQ 1
+INT 2
+CRE 2
+COM 2
+COL 3
+GCU 1
+GAA-415
+Sr Portfolio: Game Art
+GMRT
+7
+SQL 1
+INQ 1
+INT 2
+CRE 3
+COM 2
+COL 3
+GCU 3
+GDD-100
+Program no longer exists
+
+2
+CRE 2
+COM 1
+GDD-115
+Program no longer exists
+
+4
+TIL 1
+CRE 2
+COM 2
+COL 1
+GDD-200
+Program no longer exists
+
+5
+TIL 1
+SQL 1
+ANA 1
+CRE 3
+COM 2
+GDD-201
+Program no longer exists
+
+5
+TIL 1
+SQL 2
+ANA 1
+CRE 2
+COM 2
+GDD-205
+Program no longer exists
+
+4
+TIL 1
+SQL 1
+CRE 1
+COM 1
+GDD-206
+Program no longer exists
+
+3
+TIL 1
+CRE 1
+COM 1
+GDD-220
+Graphic Design History
+
+2
+CRE 1
+COM 3
+GDD-270
+Program no longer exists
+
+7
+TIL 1
+INQ 1
+ANA 1
+INT 1
+CRE 3
+COM 3
+GCU 1
+GDD-300
+Program no longer exists
+
+8
+TIL 1
+INQ 2
+ANA 3
+INT 2
+CRE 3
+COM 2
+COL 1
+GCU 1
+GDD-301
+Advanced Typography
+
+7
+TIL 1
+INQ 2
+ANA 2
+INT 3
+CRE 3
+COM 3
+GCU 1
+GDD-305
+Publication Design II
+
+6
+TIL 1
+INQ 1
+ANA 1
+CRE 3
+COM 2
+COL 3
+GDD-306
+Web Design II
+
+6
+TIL 2
+SQL 2
+INQ 1
+ANA 1
+CRE 1
+COM 1
+GDD-400
+Program no longer exists
+
+8
+TIL 1
+INQ 2
+ANA 2
+INT 2
+CRE 3
+COM 3
+COL 3
+GCU 2
+GDD-401
+Program no longer exists
+
+5
+INQ 1
+ANA 1
+CRE 3
+COM 2
+GCU 1
+GMD-100
+Visual Comm. for Game Design
+GDES
+4
+TIL 3
+SQL 2
+ANA 1
+COM 3
+GMD-110
+Introduction to Game Design
+GDES
+7
+TIL 2
+SQL 2
+INQ 1
+ANA 3
+INT 3
+CRE 2
+COM 3
+GMD-200
+Game Technology I
+GPRO
+7
+TIL 3
+SQL 1
+INQ 1
+ANA 2
+INT 3
+CRE 3
+COM 1
+GMD-200
+Game Technology I
+GDES
+7
+TIL 3
+SQL 1
+INQ 1
+ANA 2
+INT 3
+CRE 3
+COM 1
+GMD-210
+Principles of Game Design
+GDES
+8
+TIL 1
+SQL 1
+INQ 1
+ANA 3
+INT 3
+CRE 3
+COM 3
+GCU 2
+GMD-240
+Level Design
+GDES
+8
+TIL 2
+SQL 2
+INQ 2
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 1
+GMD-300
+Game Technology II
+GDES
+7
+TIL 3
+SQL 1
+INQ 1
+ANA 2
+INT 3
+CRE 3
+COM 1
+GMD-310
+Applied Ludology
+GDES
+9
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 1
+GCU 3
+GMD-320
+Game Sys. & Experience Design
+
+8
+TIL 1
+SQL 3
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 3
+GCU 1
+GMD-330
+Interactive Storytelling
+
+7
+INQ 2
+ANA 3
+INT 1
+CRE 2
+COM 1
+COL 1
+GCU 2
+GMD-410
+Senior Portfolio: Game Design
+GDES
+7
+TIL 1
+INQ 3
+ANA 3
+INT 1
+CRE 2
+COM 3
+GCU 3
+GMS-380
+Advanced Seminar in Game Sound Design
+
+7
+TIL 2
+INQ 2
+ANA 2
+INT 3
+CRE 1
+COM 2
+GCU 1
+GPR-100
+Intro to Game Prog
+GPRO
+7
+TIL 3
+SQL 1
+INQ 1
+INT 1
+CRE 1
+COM 1
+COL 1
+GPR-200
+Intro to Modern Graphics Prog
+GPRO
+5
+TIL 3
+SQL 1
+INQ 2
+ANA 2
+COM 2
+GPR-250
+Game Architecture
+GPRO
+7
+TIL 3
+SQL 2
+INQ 1
+ANA 3
+INT 2
+COM 1
+COL 2
+GPR-300
+Inter Graphics & Anim Prog
+GPRO
+5
+TIL 3
+SQL 2
+INQ 3
+ANA 3
+COM 2
+GPR-340
+AI for Games
+GPRO
+6
+TIL 3
+SQL 2
+INQ 1
+ANA 2
+INT 1
+COL 1
+GPR-350
+Game Physics
+GPRO
+4
+TIL 3
+SQL 3
+INQ 2
+ANA 3
+GPR-420
+Console Programming
+
+4
+TIL 3
+INQ 1
+ANA 1
+COM 3
+GPR-430
+Networking for Online Games
+GPRO
+2
+TIL 3
+ANA 2
+INN-100
+
+
+0
+INN-200
+
+
+9
+TIL 3
+SQL 1
+INQ 3
+ANA 3
+INT 2
+CRE 3
+COM 3
+COL 1
+GCU 1
+INN-300
+
+
+9
+TIL 3
+SQL 1
+INQ 3
+ANA 3
+INT 2
+CRE 3
+COM 3
+COL 1
+GCU 1
+INN-400
+
+
+0
+INN-420
+
+
+0
+INT-115
+Exploring International Bus
+
+4
+INQ 2
+ANA 3
+INT 2
+GCU 3
+INT-210
+Global Business Strategy
+
+6
+INQ 1
+ANA 2
+INT 1
+COM 1
+COL 1
+GCU 2
+INT-230
+Import/Export
+
+5
+ANA 3
+INT 3
+CRE 2
+COM 1
+GCU 2
+INT-260
+International Marketing
+
+7
+INQ 1
+ANA 2
+INT 1
+CRE 3
+COM 2
+COL 2
+GCU 3
+INT-320
+International Finance & Trade
+FINA
+5
+SQL 2
+INQ 3
+ANA 3
+INT 3
+GCU 2
+INT-330
+International Relations
+
+6
+INQ 2
+ANA 2
+INT 3
+CRE 2
+COM 3
+GCU 3
+INT-362
+Global Competitive Intelligence
+
+8
+TIL 3
+SQL 3
+INQ 2
+ANA 3
+INT 2
+CRE 1
+COM 2
+GCU 2
+INT-490
+International Business Internship
+
+5
+INQ 3
+ANA 2
+INT 2
+COM 3
+GCU 2
+INV-210
+Creativity & Innov. in Bus.
+
+7
+TIL 1
+INQ 1
+ANA 1
+INT 2
+CRE 3
+COM 1
+COL 1
+INV-310
+Strat Mgmt Innovation & Tech
+
+7
+TIL 3
+INQ 2
+ANA 2
+INT 2
+COM 1
+COL 3
+GCU 2
+INV-410
+Designing Innov. Orgs.
+
+7
+INQ 3
+ANA 1
+INT 2
+CRE 3
+COM 1
+COL 3
+GCU 1
+IXD-100
+Interaction Design I
+IXDS, INAR
+4
+TIL 1
+ANA 1
+CRE 1
+COM 1
+IXD-150
+
+
+7
+SQL 1
+INQ 1
+INT 1
+CRE 2
+COM 1
+COL 1
+GCU 1
+IXD-200
+Aesthetic Interactions
+IXDS, INAR
+8
+TIL 1
+INQ 1
+ANA 1
+INT 1
+CRE 2
+COM 1
+COL 2
+GCU 1
+IXD-200
+Aesthetic Interactions
+
+0
+IXD-340
+User Research PLACEHOLDER
+IXDS
+8
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 2
+COM 2
+COL 1
+GCU 2
+IXD-350
+Interaction Design Production
+IXDS
+9
+TIL 2
+SQL 1
+INQ 1
+ANA 1
+INT 2
+CRE 3
+COM 3
+COL 3
+GCU 1
+IXD-353
+Seminar in Interaction Design
+IXDS
+7
+TIL 2
+INQ 2
+ANA 2
+INT 3
+CRE 1
+COM 1
+GCU 1
+IXD-440
+Design Thinking PLACEHOLDER
+IXDS
+9
+TIL 2
+SQL 2
+INQ 3
+ANA 3
+INT 3
+CRE 1
+COM 3
+COL 3
+GCU 3
+IXD-450
+Design for SI PLACEHOLDER
+IXDS
+9
+TIL 1
+SQL 1
+INQ 3
+ANA 1
+INT 2
+CRE 3
+COM 3
+COL 3
+GCU 3
+IXD-451
+Studio I PLACEHOLDER
+IXDS
+3
+CRE 3
+COM 2
+GCU 1
+IXD-452
+Studio II Placeholder
+IXDS
+3
+CRE 3
+COM 2
+GCU 1
+LEG-100
+American National Government
+LAW
+4
+TIL 1
+ANA 1
+CRE 2
+COM 3
+MGT-140
+Intro to Game Develop. Mgmt
+GMPG
+8
+TIL 3
+INQ 1
+ANA 1
+INT 1
+CRE 1
+COM 3
+COL 3
+GCU 1
+MGT-150
+Exploring Analytics
+ACCT, BSBA, DHMS, GMPG, MKTG, MKCM
+6
+TIL 2
+SQL 3
+INQ 1
+ANA 1
+COM 2
+COL 3
+MGT-210BSBA
+Catalyze Positive Org Behavio
+
+8
+TIL 1
+INQ 2
+ANA 1
+INT 2
+CRE 2
+COM 2
+COL 3
+GCU 1
+MGT-210GMPG
+Catalyze Positive Org Behavio
+
+6
+TIL 1
+INQ 2
+ANA 1
+INT 1
+COM 2
+COL 1
+MGT-260
+Project Mgmt & Team Leadership
+BSBA, MKTG
+3
+INQ 3
+ANA 2
+COL 3
+MGT-265
+Information Systems for Mgmt
+FINA
+4
+SQL 2
+INQ 1
+ANA 1
+INT 1
+MGT-290
+Business Career Internship
+
+0
+MGT-315
+Positive Organization Development
+
+5
+INQ 3
+ANA 1
+INT 2
+CRE 2
+COM 3
+MGT-320
+Product/Operation Management
+FINA
+7
+TIL 2
+SQL 2
+INQ 1
+ANA 2
+INT 2
+COL 1
+GCU 1
+MGT-330
+HRM I:Talent/Plng/Acquisition
+
+5
+TIL 1
+INQ 2
+ANA 2
+INT 2
+COM 1
+MGT-390
+Advanced Business Internship
+BSBA, GMPG
+5
+INQ 3
+ANA 2
+INT 2
+COM 3
+GCU 2
+MGT-425
+Problem Analysis/Decision Mkg.
+
+8
+TIL 1
+SQL 3
+INQ 2
+ANA 3
+INT 1
+CRE 1
+COM 1
+COL 1
+MGT-460
+Business Policy/Strategic Mgt
+FINA
+8
+TIL 1
+SQL 2
+INQ 2
+ANA 3
+INT 3
+COM 1
+COL 2
+GCU 1
+MKT-110
+Introduction to Marketing
+MKCM
+8
+TIL 1
+INQ 1
+ANA 1
+INT 3
+CRE 2
+COM 3
+COL 2
+GCU 2
+MKT-111
+Exploring Marketing I
+MKTG
+3
+INT 1
+CRE 1
+COM 1
+MKT-112
+Exploring Marketing II
+MKTG
+4
+TIL 1
+INT 2
+CRE 1
+COM 2
+MKT-210
+Consumer Behavior
+MKCM
+6
+INQ 1
+ANA 1
+CRE 2
+COM 1
+COL 2
+GCU 3
+MKT-210
+Consumer Behavior
+GMPG, MKTG
+7
+INQ 1
+ANA 3
+INT 3
+CRE 2
+COM 2
+COL 2
+GCU 2
+MKT-250
+Intro. to Digital Marketing
+MKCM
+8
+TIL 3
+SQL 2
+ANA 2
+INT 3
+CRE 1
+COM 3
+COL 2
+GCU 1
+MKT-250
+Intro. to Digital Marketing
+MKTG
+9
+TIL 3
+SQL 1
+INQ 1
+ANA 2
+INT 2
+CRE 1
+COM 3
+COL 2
+GCU 1
+MKT-255
+Marketing Research
+MKTG
+8
+TIL 2
+SQL 3
+INQ 3
+ANA 3
+INT 2
+COM 2
+COL 1
+GCU 1
+MKT-270
+Integrated Marketing Comm.
+MKTG
+9
+TIL 3
+SQL 1
+INQ 1
+ANA 1
+INT 2
+CRE 2
+COM 3
+COL 1
+GCU 2
+MKT-270
+Integrated Marketing Comm.
+MKCM
+7
+TIL 2
+ANA 2
+INT 3
+CRE 3
+COM 3
+COL 1
+GCU 1
+MKT-290
+Marketing Internship
+MKTG
+9
+TIL 1
+SQL 1
+INQ 1
+ANA 1
+INT 3
+CRE 1
+COM 1
+COL 1
+GCU 1
+MKT-430
+Strategic Community Mgt.
+MKCM
+9
+TIL 3
+SQL 1
+INQ 2
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 2
+MKT-450
+Current Topics in Marketing
+MKCM
+6
+INQ 2
+ANA 2
+INT 3
+CRE 3
+COM 3
+GCU 2
+MKT-450
+Current Topics in Marketing
+MKTG
+7
+TIL 2
+INQ 2
+ANA 2
+INT 3
+CRE 3
+COM 3
+GCU 2
+MTH-180
+Statistics, Introduction to
+ACCT, ASUS, BSBA, DIGF, CNCS, DATA, FINA, GMBP, GMPG, IXDS, LAW, MKTG, MKCM
+2
+SQL 3
+ANA 1
+MTH-230
+Calculus I
+MATH, CSIN, GPRO
+5
+TIL 2
+SQL 3
+ANA 1
+INT 1
+COM 1
+MTH-240
+Calculus II
+MATH
+5
+TIL 2
+SQL 3
+ANA 1
+INT 1
+COM 1
+MTH-250
+Matrices, Vectors, and 3D Math
+GPRO
+5
+TIL 3
+SQL 3
+ANA 1
+INT 1
+COM 1
+MTH-270
+Discrete Mathematics
+MATH, CSIN, GPRO, APDV
+5
+TIL 1
+SQL 3
+ANA 3
+INT 2
+COM 2
+MTH-275
+Mathematical Cryptography
+
+5
+TIL 1
+SQL 3
+ANA 1
+INT 1
+COM 1
+MTH-280
+Applied Statistics
+DATA
+8
+TIL 3
+SQL 3
+INQ 3
+ANA 2
+INT 2
+COM 3
+COL 2
+GCU 1
+MTH-305
+History of Mathematics
+
+6
+SQL 3
+INQ 2
+ANA 1
+INT 1
+COM 1
+GCU 1
+MTH-310
+Linear Algebra
+MATH
+5
+TIL 2
+SQL 3
+ANA 1
+INT 1
+COM 1
+MTH-315
+Survey of Geometries
+
+5
+TIL 1
+SQL 3
+ANA 1
+INT 1
+COM 1
+MTH-340
+Vector Calculus
+MATH
+5
+TIL 1
+SQL 3
+ANA 1
+INT 1
+COM 1
+MTH-350
+Numerical Methods
+
+5
+TIL 1
+SQL 3
+ANA 1
+INT 1
+COM 1
+MTH-380
+Probability and Statistics
+MATH
+6
+TIL 1
+SQL 3
+INQ 1
+ANA 1
+INT 2
+COM 1
+MTH-480
+
+
+6
+TIL 2
+SQL 3
+INQ 3
+ANA 2
+INT 2
+COM 3
+NET-150
+Network Fundamentals
+DIGF
+5
+SQL 2
+ANA 2
+CRE 1
+COM 1
+GCU 2
+NET-215
+Network Protocols
+CNCS
+6
+TIL 2
+INQ 1
+ANA 2
+INT 3
+COM 2
+GCU 1
+NET-330
+Network Design
+CNCS
+7
+TIL 1
+INQ 3
+ANA 3
+INT 3
+CRE 2
+COM 2
+COL 3
+NET-490
+Internship
+
+0
+PSY-100
+Psychology, Introduction to
+ASUS, PSYC
+6
+INQ 3
+ANA 3
+INT 2
+CRE 1
+COM 2
+COL 1
+PSY-105
+The Learning Curve
+
+6
+TIL 3
+INQ 2
+ANA 1
+INT 1
+CRE 1
+COL 3
+PSY-110
+Applied Psychology, Introduction to
+
+7
+TIL 3
+INQ 3
+ANA 2
+INT 2
+COM 2
+COL 2
+GCU 3
+PSY-180
+Positive Psychology
+
+7
+INQ 3
+ANA 3
+INT 2
+CRE 1
+COM 1
+COL 1
+GCU 1
+PSY-201
+Research Methods & Analysis I
+PSYC
+8
+TIL 1
+SQL 3
+INQ 2
+ANA 2
+INT 1
+CRE 2
+COM 1
+COL 3
+PSY-202
+Research Methods & Analysis II
+PSYC
+9
+TIL 2
+SQL 3
+INQ 2
+ANA 3
+INT 2
+CRE 3
+COM 2
+COL 3
+GCU 1
+PSY-205
+Abnormal Psychology
+PSYC
+6
+INQ 2
+ANA 3
+INT 3
+CRE 1
+COM 3
+GCU 1
+PSY-210
+Cognitive Psychology
+
+5
+TIL 1
+SQL 2
+INQ 1
+ANA 1
+COM 1
+PSY-210
+Cognitive Psychology
+PSYC
+5
+TIL 1
+INQ 3
+ANA 3
+INT 2
+CRE 1
+PSY-220
+Developmental Psychology
+PSYC
+6
+TIL 1
+INQ 3
+ANA 2
+INT 3
+COM 3
+COL 2
+PSY-240
+Social Psychology
+PSYC
+6
+INQ 3
+ANA 2
+INT 3
+CRE 1
+COM 2
+GCU 1
+PSY-305
+Psychology and Music
+
+5
+SQL 2
+INQ 1
+ANA 2
+INT 3
+CRE 3
+PSY-310
+Attachment and Close Relationships
+
+6
+SQL 1
+INQ 2
+ANA 3
+INT 3
+COM 1
+COL 1
+PSY-320
+Personality Theories
+
+5
+SQL 1
+INQ 2
+ANA 3
+INT 3
+COM 1
+PSY-330
+Psychology and Law
+
+6
+INQ 3
+ANA 2
+INT 3
+CRE 1
+COM 3
+GCU 1
+PSY-340
+Behavioral Neuroscience
+PSYC
+5
+SQL 3
+INQ 2
+ANA 3
+INT 1
+COM 1
+PSY-350
+Sports Psychology
+
+6
+INQ 2
+ANA 3
+INT 3
+CRE 3
+COM 1
+GCU 1
+PSY-360
+Media Psychology
+
+8
+TIL 1
+INQ 1
+ANA 3
+INT 3
+CRE 1
+COM 1
+COL 1
+GCU 1
+PSY-370
+Health Psychology
+
+7
+INQ 2
+ANA 1
+INT 3
+CRE 2
+COM 1
+COL 2
+GCU 3
+PSY-380
+Multicultural Psychology
+
+7
+TIL 1
+INQ 1
+ANA 3
+INT 3
+CRE 2
+COM 1
+GCU 3
+PSY-395
+Advanced Research Internship I
+
+7
+TIL 3
+SQL 1
+INQ 1
+ANA 1
+INT 3
+CRE 3
+COM 2
+PSY-396
+Advanced Research Internship II
+
+7
+TIL 1
+SQL 3
+INQ 1
+ANA 1
+INT 3
+CRE 3
+COM 2
+PSY-420
+Applied Psychology: Forensic Science
+
+6
+INQ 1
+ANA 1
+INT 3
+CRE 3
+COL 2
+GCU 3
+PSY-430
+Healthy Aging
+
+6
+INQ 3
+ANA 2
+INT 3
+CRE 3
+COL 2
+GCU 2
+PSY-450
+Counseling Skills
+
+7
+INQ 3
+ANA 3
+INT 2
+CRE 1
+COM 3
+COL 2
+GCU 2
+PSY-460
+Applied Psych.:Healthy Organizations
+
+6
+INQ 3
+ANA 2
+INT 3
+CRE 3
+COL 1
+GCU 2
+PSY-490
+Applied Psych Internship I
+PSYC
+7
+INQ 2
+ANA 1
+INT 3
+CRE 1
+COM 1
+COL 3
+GCU 2
+PSY-491
+Applied Psych Internship II
+
+7
+INQ 2
+ANA 1
+INT 3
+CRE 1
+COM 1
+COL 3
+GCU 2
+SEC-250
+Computer & Network Security
+DIGF, CNCS
+5
+TIL 2
+ANA 3
+INT 2
+COM 2
+COL 2
+SEC-260
+Web and Applications Security
+CNCS
+6
+TIL 1
+INQ 2
+ANA 3
+INT 2
+COM 2
+COL 1
+SEC-345
+Information Assurance
+
+9
+TIL 1
+SQL 1
+INQ 3
+ANA 2
+INT 3
+CRE 2
+COM 2
+COL 2
+GCU 2
+SEC-350
+Network & Security Controls
+CNCS
+6
+INQ 3
+ANA 3
+INT 3
+CRE 3
+COM 2
+COL 1
+SON-101
+Sound Studio Production
+GMSD
+5
+TIL 2
+ANA 2
+CRE 2
+COM 1
+COL 1
+SON-120
+Fundamentals of Digital Music
+GMSD
+8
+TIL 2
+SQL 2
+INQ 1
+ANA 1
+CRE 3
+COM 3
+COL 1
+GCU 2
+SON-131
+History of Musical Innovation
+GMSD
+7
+INQ 2
+ANA 3
+INT 1
+CRE 1
+COM 3
+COL 1
+GCU 3
+SON-165
+Business of Music, the
+GMSD
+6
+INQ 1
+ANA 2
+INT 2
+CRE 2
+COM 3
+GCU 3
+SON-200
+Game Sound Design I
+GMSD
+7
+TIL 2
+INQ 2
+ANA 3
+INT 2
+CRE 3
+COM 3
+COL 3
+SON-282
+Synthesis and Sound Design
+GMSD
+9
+TIL 3
+SQL 1
+INQ 1
+ANA 3
+INT 2
+CRE 3
+COM 3
+COL 1
+GCU 3
+SON-300
+Game Sound Design II
+GMSD
+6
+TIL 3
+SQL 2
+INT 1
+CRE 2
+COM 3
+COL 3
+SON-410
+Portfolio in Game Sound Design
+GMSD
+7
+INQ 2
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 2
+ASU-110
+Systems Thinking
+
+0
+ASU-250
+Sustainability and Globalization
+
+8
+TIL 1
+SQL 1
+INQ 2
+ANA 3
+INT 2
+COM 1
+COL 1
+GCU 3
+ASU-270
+Food Systems
+
+7
+TIL 1
+SQL 1
+INQ 3
+ANA 3
+INT 3
+COM 1
+GCU 3
+ASU-300
+Placed-Based Sustainability
+
+9
+TIL 1
+SQL 1
+INQ 2
+ANA 3
+INT 3
+CRE 1
+COM 2
+COL 1
+GCU 1
+ASU-310
+Equity, Justice, and Sustainability
+
+9
+TIL 2
+SQL 1
+INQ 2
+ANA 3
+INT 3
+CRE 2
+COM 2
+COL 1
+GCU 3
+ASU-410
+Ecological Economics
+
+9
+TIL 3
+SQL 3
+INQ 2
+ANA 3
+INT 3
+CRE 1
+COM 1
+COL 1
+GCU 2
+ASU-450
+Decision-Making for Sustainability
+
+9
+TIL 3
+SQL 3
+INQ 2
+ANA 3
+INT 3
+CRE 1
+COM 1
+COL 1
+GCU 2
+ASU-490
+Sustainability Applications
+
+9
+TIL 2
+SQL 1
+INQ 3
+ANA 3
+INT 3
+CRE 2
+COM 2
+COL 1
+GCU 1
+SWK-100
+Social Work, Introduction to
+SOWK
+6
+INQ 3
+ANA 1
+INT 1
+COM 2
+COL 1
+GCU 2
+SWK-130
+Disability: Rights, Identity and History
+
+7
+TIL 1
+INQ 2
+ANA 1
+INT 2
+COM 1
+COL 1
+GCU 3
+SWK-140
+Survey of Community Agencies
+SOWK
+7
+SQL 1
+INQ 1
+ANA 1
+INT 2
+COM 3
+COL 1
+GCU 3
+SWK-210
+Addiction Abuse Studies
+SOWK
+5
+INQ 1
+ANA 1
+INT 1
+COM 1
+GCU 2
+SWK-220
+Human Life Span Development
+SOWK
+5
+INQ 1
+ANA 1
+INT 2
+COM 1
+GCU 2
+SWK-235
+Human Behav: Person-in-Envir.
+SOWK
+6
+TIL 1
+INQ 2
+ANA 2
+INT 3
+COM 2
+GCU 2
+SWK-240
+Family Violence
+
+5
+INQ 2
+ANA 2
+INT 2
+COM 1
+GCU 1
+SWK-280
+Research Methods Social Work
+SOWK
+7
+TIL 3
+SQL 3
+INQ 3
+ANA 3
+INT 3
+COM 2
+GCU 1
+SWK-300
+Policy Pract.:Local to Global
+SOWK
+8
+TIL 3
+SQL 1
+INQ 3
+ANA 3
+INT 3
+COM 3
+COL 1
+GCU 2
+SWK-305
+SJ: Oppression & Empowerment
+CRCJ, SOWK
+5
+INQ 2
+ANA 2
+INT 2
+COM 3
+GCU 3
+SWK-310
+Generalist Practice I
+SOWK
+7
+INQ 1
+ANA 1
+INT 3
+CRE 1
+COM 3
+COL 1
+GCU 2
+SWK-315
+Generalist Practice II
+SOWK
+7
+TIL 1
+SQL 2
+INQ 2
+ANA 2
+INT 3
+COM 1
+GCU 1
+SWK-410
+Social Work Practice with Older Adults
+
+7
+TIL 1
+INQ 1
+ANA 2
+INT 2
+COM 1
+COL 1
+GCU 2
+SWK-430
+Rural Social Work Practice
+
+6
+INQ 2
+ANA 2
+INT 2
+COM 1
+COL 2
+GCU 2
+SWK-470
+Global Social Action
+SOWK
+5
+INQ 2
+ANA 2
+INT 2
+COM 1
+GCU 3
+SWK-490
+Social Wk Field Experience I
+SOWK
+6
+SQL 1
+INQ 3
+ANA 3
+INT 3
+COM 2
+COL 1
+SWK-490S
+Int. Social Wk Field Seminar I
+SOWK
+8
+SQL 1
+INQ 3
+ANA 3
+INT 3
+CRE 1
+COM 2
+COL 2
+GCU 1
+SWK-495
+Social Wk Field Experience II
+SOWK
+9
+TIL 1
+SQL 1
+INQ 3
+ANA 2
+INT 3
+CRE 1
+COM 2
+COL 2
+GCU 3
+SYS-140
+Systems Fundamentals
+DIGF, CNCS
+5
+INQ 3
+ANA 3
+INT 3
+CRE 2
+COM 2
+SYS-255
+Sysadmin & Net Services I
+CNCS
+6
+TIL 1
+INQ 2
+ANA 3
+INT 3
+CRE 1
+COL 1
+SYS-265
+Sysadmin & Net Services II
+CNCS
+8
+TIL 1
+SQL 1
+INQ 2
+ANA 3
+INT 3
+CRE 2
+COM 1
+COL 1
+SYS-320
+Automation and Scripting
+CNCS
+7
+TIL 1
+INQ 2
+ANA 3
+INT 3
+CRE 3
+COM 1
+COL 1
+VCD-100
+Form and Color
+VCDS, IXDS
+3
+ANA 1
+CRE 1
+COM 1
+VCD-110
+Image Technology
+BRMP, IXDS
+3
+TIL 1
+CRE 2
+COM 1
+VCD-111
+Visual & Digital Fundamentals
+MKCM, APDV
+8
+TIL 3
+INQ 1
+ANA 1
+INT 2
+CRE 2
+COM 3
+COL 1
+GCU 1
+VCD-181
+Design Solutions
+MKCM
+8
+TIL 3
+INQ 1
+ANA 1
+INT 2
+CRE 3
+COM 3
+COL 1
+GCU 1
+VCD-206
+Web Design I
+VCDS, IXDS, APDV
+4
+TIL 1
+SQL 1
+CRE 1
+COM 1
+VCD-220
+Visual Creativity & Meaning
+VCDS, IXDS
+4
+INT 1
+CRE 1
+COM 3
+GCU 1
+VCD-306
+Web Design II
+IXDS
+6
+TIL 2
+SQL 2
+INQ 1
+ANA 1
+CRE 1
+COM 1
+WRT-100
+Writing Profession, Intro.
+PWRT
+3
+INQ 3
+CRE 3
+COM 3
+WRT-110
+Literary Magazine I
+
+0
+WRT-120
+Creative Writing, Introduction
+INAR, PWRT
+2
+CRE 3
+COM 3
+WRT-200
+Fundamentals of Journalism
+PWRT
+6
+INQ 2
+ANA 2
+CRE 3
+COM 3
+COL 2
+GCU 1
+WRT-201
+Professional Practices I
+
+6
+TIL 2
+INQ 1
+ANA 1
+INT 2
+CRE 2
+COM 2
+WRT-231
+Writing for the Workplace
+CNCS, CRCJ
+6
+INQ 3
+ANA 1
+INT 2
+CRE 3
+COM 3
+COL 3
+WRT-346
+Publishing in 21st Century
+
+7
+INQ 2
+ANA 3
+INT 3
+CRE 3
+COM 3
+COL 3
+GCU 2
+WRT-350
+Reading and Writing in Genre
+
+6
+INQ 2
+ANA 3
+INT 2
+CRE 3
+COM 3
+GCU 2
+WRT-401
+Professional Practices III
+
+6
+INQ 2
+ANA 1
+INT 2
+CRE 2
+COM 3
+GCU 1
