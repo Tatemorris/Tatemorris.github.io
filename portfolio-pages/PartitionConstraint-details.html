@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Go Fish Extreme! Details</title>
+  <title>"The Partition Constraint Problem" Details</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -90,7 +90,7 @@
 
     <!-- ======= Portfolio Details Section ======= -->
     <section id="portfolio-details" class="portfolio-details">
-      <h1 style="text-align: center;">Go Fish! Extreme Edition</h1>
+      <h1 style="text-align: center;">The Partition Constraint Problem</h1>
       <div class="container">
 
         <div class="row gy-4">
@@ -100,15 +100,11 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/Ocean_Guide.jpg" alt="rules/credits">
+                  <img class="portfolio-slide-img" src="../assets/img/portfolio/PartitionConstraintFrontPage.png" alt="front page">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/GoFishSheetAbility2.png" alt="special card art">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="../assets/img/portfolio/GoFishSheetBasic2.png" alt="basic card art">
+                  <img class="portfolio-slide-img" src="../assets/img/portfolio/PartitionConstraintKeyRule.png" alt="key rule">
                 </div>
 
               </div>
@@ -117,87 +113,123 @@
           <div class="portfolio-description">
           <h3>Intent</h3>
           <p>
-          The goal was to transform a low-agency children’s game into a system with meaningful player choice and interaction. 
-          I focused on introducing mechanics that increase decision-making complexity while preserving the accessibility of 
-          the original design.
-          </p>
-
-          <h3>Gameplay Overview</h3>
-          <p>
-          The game builds on traditional Go Fish rules by introducing ability cards that modify turn structure, player 
-          targeting, and information flow. These additions create opportunities for strategic planning, bluffing, and 
-          disruption of opponents.
-          </p>
-
-          <h3>Systems Design</h3>
-          <p>My contributions centered on expanding the decision space through card mechanics:</p>
+          For the final project in my Python Data Structures course, we were given a complex problem with an open ended solution. 
+          The Partition Constraint Problem asked us to create partitions using an original collection of integers and two constraint 
+          parameters. Each partition must satisfy a minimum sum (k), 
+          a minimum diversity (l non-zero indices), and jointly reconstruct the original collection exactly when summed index-wise. 
+          Then among all valid solutions, the goal was to maximize the number of partitions using two different algorithmic approaches.
+          These approaches are:
           <ul>
-            <li>Designed ability cards that introduce new interaction layers between players and the deck</li>
-            <li>Modified core rules to support expanded mechanics without breaking game flow</li>
-            <li>Ensured all additions maintained clarity and quick readability during play</li>
+            <li><strong>Greedy: </strong> A greedy “largest-first” partition builder that acts directly on the original list of values. </li>
+            <li><strong>Alternative: </strong> An approach that we came up with on our own. For me, I designed a dynamic tree-based  
+              approach that uses a binary splitting tree of linked-list nodes and then chooses partitions via a memorized decision 
+              procedure.  </li>
+          </ul>
+          </p>
+          <br>
+  <h5>Example Partition:</h5>
+
+  <p>
+    Original Collection: [10, 5, 8]<br>
+    Constraints: k = 10, l = 2
+  </p>
+  <h5>Valid Solution:</h5>
+  <p>
+    Partition 1: [7, 3, 0] &rarr; Sum = 10 &ge; k &#10003;&nbsp;&nbsp; Non-empty indices: 2 &ge; 1 &#10003;
+  </p>
+  <p>
+    Partition 2: [3, 2, 8] &rarr; Sum = 13 &ge; k &#10003;&nbsp;&nbsp; Non-empty indices: 3 &ge; 1 &#10003;
+  </p>
+
+  <h5>Verification:</h5>
+
+  <ul>
+    <li>Index 0: 7 + 3 = 10 &#10003;</li>
+    <li>Index 1: 3 + 2 = 5 &#10003;</li>
+    <li>Index 2: 0 + 8 = 8 &#10003;</li>
+    <li>All original values reconstructed correctly!</li>
+  </ul>
+  <br>
+
+          <h3>Algorithm 1</h3>
+          <a href="../assets/CSProjects/CS270/CS270-Final/algorithm1.py"
+          target="_blank"
+          rel="noopener"
+          style="
+            display:inline-block;
+            padding:6px 9px;
+            border-radius:5px;
+            text-decoration:none;
+            font-weight:300px;
+            border:2px solid #2d95c6;
+            color:#2d95c6;
+          ">
+          Download Python Code
+        </a>
+          <p>
+          <br>
+          My thought process
+          <br>
+        </p>
+
+          <h3>Algorithm 2</h3>
+          <a href="../assets/CSProjects/CS270/CS270-Final/algorithm2.py"
+          target="_blank"
+          rel="noopener"
+          style="
+            display:inline-block;
+            padding:6px 9px;
+            border-radius:5px;
+            text-decoration:none;
+            font-weight:300px;
+            border:2px solid #2d95c6;
+            color:#2d95c6;
+          ">
+          Download Python Code
+        </a>
+          <p>
+            <br>
+            My thought process
+            
+            <br>
+          </p>
+
+          <h3>Results</h3>
+          <ul>
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
           </ul>
 
-          <h3>Design Examples</h3>
-          <ul>
-            <li><strong>Siren Card:</strong> Expands targeting from a single player to all players, increasing risk/reward and accelerating game pacing</li>
-            <li><strong>Fishing Rod:</strong> Introduces controlled randomness by allowing repeated draws until a condition is met</li>
-            <li><strong>Sonar:</strong> Adds information advantage through deck inspection, enabling planning and prediction</li>
-          </ul>
-
-          <h3>Rule System Design</h3>
+          <h3>My Conclusion</h3>
           <p>
-          I redesigned the ruleset to integrate these mechanics seamlessly into the base game. This included defining draw 
-          scaling, clarifying turn structure changes, and ensuring edge cases were resolved for consistent play.
+          In the end
           </p>
-
-          <h3>Process & Iteration</h3>
-          <ul>
-            <li>Conducted rapid playtesting cycles within a strict 2-week sprint constraint</li>
-            <li>Iterated on balance and clarity based on player confusion and pacing issues</li>
-            <li>Refined mechanics to ensure they enhanced—not overcomplicated—the base experience</li>
-          </ul>
-
-          <h3>Conclusion</h3>
-          <p>
-          This project highlights my ability to analyze an existing system and introduce meaningful complexity without 
-          sacrificing accessibility. I focused on designing mechanics that expand player agency while maintaining clarity, 
-          demonstrating strong systems thinking under tight production constraints.
-          </p>
-          </div>
         </div>
 
         <div class="col-lg-4">
             <div class="portfolio-info">
               <h4>Quick Info</h4>
               <ul>
-                <li><strong>Platform:</strong> Card Game</li>
-                <li><strong>Duration:</strong> Jan 2025 (2-week sprint)</li>
-                <li><strong>Course:</strong> Game Studio I</li>
-                <li><strong>Role:</strong> Game Designer</li>
+                <li><strong>Language:</strong> Python</li>
+                <li><strong>Duration:</strong> </li>
+                <li><strong>Course:</strong> Data Structures: Python</li>
+                <li><strong>Role:</strong> Student</li>
               </ul>
               <hr class="info-divider">
               <h4>Links</h4>
               <ul>
-                <li><strong>Slide Deck:</strong> 
-                  <a href="https://docs.google.com/presentation/d/1jb6PpOvh32PJZ5ZIEHzglzHl6tOFMNRExKuiRsoMzJg/edit?usp=sharing">
-                    View Presentation
+                <li><strong>Instructions Document:</strong> 
+                  <a href="../assets/CSProjects/CS270/CS270-Final/Final_Project_Instructions.pdf">
+                    View Instructions PDF
+                  </a>
+                </li>
+                <li><strong>My Final Write Up:</strong> 
+                  <a href="../assets/CSProjects/CS270/CS270-Final/Write Up.docx">
+                    View Final Write Up
                   </a>
                 </li>
               </ul>
-               <hr class="info-divider">
-              <h4>Project Members</h4>
-              <i>
-                <b>Designers</b><br>
-
-                Tate Morris <br>
-                Isa Flaherty<br>
-                Caleb Carreon<br>
-
-                <br><b>Artists</b><br>       
-
-                Sienna Forbeck <br>
-                Charles Lopez <br>
-
             </div>
         </div>
 
