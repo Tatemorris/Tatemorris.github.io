@@ -1,12 +1,14 @@
-# Certification of Authenticity:
-# I certify that this is entirely my own work, except for where I have given fully-documented
-# references to the work of others. I understand the definition and consequences of plagiarism and
-# acknowledge that the assessor of this assignment may, for the purpose of assessing this assignment:
-# - Reproduce this assignment and provide a copy to another member of academic
-# - staff; and/or Communicate a copy of this assignment to a plagiarism checking
-# - service (which may then retain a copy of this assignment on its database for
-# - the purpose of future plagiarism checking)
-# Tate Morris
+# To run Algorithm 2:
+#   1.	Open a terminal and navigate to the directory containing algorithm2.py.
+#   2.	Run: python algorithm2.py
+#   3.	When prompted:
+#       • Enter the collection of integers as space-separated values, for example: 10 5 8
+#       • Enter k (minimum sum per partition), for example: 10
+#       • Enter l (minimum number of non-zero indices per partition), for example: 2
+#   4.	The program will either:
+#       • Print that no valid partitioning was found in the splitting tree, or
+#       • Print the number of partitions, their values, a reconstruction check, and an average runtime measurement.
+
 
 import timeit
 

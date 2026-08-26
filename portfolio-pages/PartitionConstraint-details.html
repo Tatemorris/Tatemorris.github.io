@@ -168,7 +168,35 @@
         </a>
           <p>
           <br>
-          My thought process
+          Algorithm 1 directly manipulates the “remaining” copy of the original values and repeatedly constructs partitions greedily.<br> 
+          
+          <br>At each step:
+            <br>1.	It attempts to build a single valid partition using the procedure build_one_partition. <br>
+            <br>2.	This procedure repeatedly takes one unit from whichever index currently has the largest remaining value and places it into the current partition. <br>
+            <br>3.	It keeps track of:
+            <ul>
+              <li>The total sum of the partition so far.</li>
+              <li>The diversity, defined as the number of distinct indices where the partition is non-zero.</li>
+            </ul>
+          The process for a given partition stops as soon as both the sum constraint (≥ k) and the diversity constraint (≥ l) are satisfied. That partition is then committed, and the “remaining” array is updated accordingly. This is repeated until no more valid partitions can be formed. 
+          If there is leftover mass (i.e., the sum of remaining values is greater than zero) after the last successful partition, the leftover is added into the first partition to preserve exact reconstruction. <br>
+          <br>
+          <h5>Key Helper Functions</h5>
+            <br>The implementation in algorithm1.py provides several helper functions: 
+          <ul>
+              <li><strong>partition_sum(partition)</strong>: Returns the sum of the partition.</li>
+              <li><strong>partition_diversity(partition)</strong>: Counts how many indices in the partition are strictly positive.</li>
+              <li><strong>check_reconstruction(partitions, original)</strong>: Verifies that summing all partitions index-wise reconstructs the original list.</li>
+              <li><strong>build_one_partition(remaining, k, l)</strong>: Attempts to construct a single valid partition, using a local copy (temp_remaining) so the algorithm can abort cleanly if it fails.</li>
+          </ul>
+          <h6>The main driver function:</h6>
+            <strong>greedy_partition_algorithm(values, k, l)</strong>: Repeatedly calls build_one_partition until no more valid partitions can be created, folds leftover mass into an existing partition, if possible, runs the reconstruction check, and returns success status plus the list of partitions. <br>
+            <br>The script also includes input validation in the main block, which:
+            <ul>
+              <li>Prompts for a space-separated list of integers.</li>
+              <li>Prompts for k and l, rejecting invalid (non-integer) inputs.</li>
+              <li>Prints either a failure message or the list of partitions, along with a reconstruction check and average runtime using the timeit module.</li>
+            </ul>
           <br>
         </p>
 
@@ -187,23 +215,102 @@
           ">
           Download Python Code
         </a>
-          <p>
+        
+        <p>
+          <br>
+          Algorithm 2 uses a two-stage process: a binary splitting tree built from linked lists, followed by a dynamic programming decision over the tree.<br> 
+          
+          <br>The steps are:
+            <br>1.	Convert the original list of integers into a linked list (ListNode). This is then turned into the root of a binary tree (TreeNode), where each node stores a linked list.  <br>
+            <br>2.	Using a splitting rule, each node’s list is recursively split into left and right child lists until no element greater than 1 remains (i.e., all values are 0 or 1). <br>
+            <br>3.	Once the tree is built, a dynamic programming function compute_best_partitions decided, for every TreeNode, whether it is better to:
+            <ul>
+              <li>Treat that node’s list as a single partition (if it satisfies k and l), or</li>
+              <li>Take the best combination of partitions from its children.</li>
+            </ul>
+            <br>4.	A separate function collect_partitions then walks the tree according to these choices and produces the final list of partitions.
             <br>
-            My thought process
-            
             <br>
-          </p>
-
-          <h3>Results</h3>
+          <h5>Data Structures</h5>
+            The algorithm uses three core data structures:  
           <ul>
-            <li>1</li>
-            <li>2</li>
-            <li>3</li>
+              <li><strong>ListNode</strong>: A singly linked list node storing a single integer and a pointer to the next node.</li>
+              <li><strong>TreeNode</strong>: A binary tree node storing:
+                <ul>
+                  <li><strong>list_head</strong>: the head of a linked list (the current “collection” at this node).</li>
+                  <li><strong>left, right</strong>: pointers to child TreeNodes.</li>
+                </ul>
+              </li>
+              <li>A memorization dictionary “memo” that maps TreeNode objects to a result: (best_count, choice), where choice is either "self" or "children".</li>
           </ul>
+          <br>
+          <h5>Splitting Procedure and Tree Construction</h5>
+            The helper functions are: 
+            <ul>
+              <li><strong>build_linked_list(values)</strong>: Converts a Python list into a linked list.</li>
+              <li><strong>linked_list_to_list(head)</strong>: Converts a linked list back into a Python list.</li>
+              <li><strong>can_split_list(list_head)</strong>: Returns True if any element in the list is greater than 1, meaning further splitting is possible.</li>
+              <li><strong>split_list(list_head)</strong>: For each element x in the list:
+              <ul>
+                <li>If x > 1</li>
+                <ul>
+                  <li>If x is even, split into (x/2, x/2).</li>
+                  <li>If x is odd, split into (floor(x/2), floor(x/2) + 1).</li>
+                </ul>
+                <li>If x ≤ 1</li>
+                <ul>
+                  <li>Left child gets x; right child gets 0 (so that reconstruction remains possible but splitting effectively stops). </li>
+                </ul>
+              </ul>
+              </li>
+              <li><strong>_build_children(node)</strong>: recursively splits a node into its left and right children as long as its list can be split, thereby creating a binary tree whose leaves are lists of 0s and 1s (and possible leftover values).</li>
+            </ul>
+
+            <h5>Dynamic Construction Of Partitions Using The Tree</h5>
+            Once the splitting tree is built, the goal is to choose a set of TreeNodes to treat as partitions such that: 
+            <ul>
+              <li>Each chosen node’s list satisfies sum ≥ k and diversity ≥ l.</li>
+              <li>The choice is consistent with the tree structure: if we treat a node as "self", we do not also take its descendants as separate partitions.</li>
+              <li>• The total number of chosen partitions is maximized.</li>
+            </ul>
+            <br> <strong>Key Functions</strong> 
+            <ul>
+              <li><strong>list_sum_and_diversity(list_head)</strong>: Computes total sum and diversity (count of positive entries) for a list.</li>
+              <li><strong>compute_best_partitions(node, k, l, memo)</strong>: At a given TreeNode, compute:
+                <ul>
+                  <li>A “self” option: treat this node’s list as one partition if it satisfies k and l.</li>
+                  <li>A “children” option: recursively compute best partitions for left and right children and sum their counts, if both are feasible. Then: </li>
+                  <ul>
+                    <li>Choose whichever option yields the larger number of partitions.</li>
+                    <li>Store the result (best_count, choice) in memo and return it.</li>
+                  </ul>
+                </ul>
+              </li>
+              <li><strong>collect_partitions(node, memo, partitions)</strong>: Uses the memorized choices to actually collect the lists representing partitions.</li>
+              <ul>
+                <li>If choice == "self", the node’s linked list is converted back to a Python list and appended as a partition.</li>
+                <li>If choice == "children", the function recurses on left and right child nodes.</li>
+              </ul>
+            </ul>
+            <h6>Driver Function</h6>
+            <strong>tree_based_dp_algorithm(values, k, l)</strong>:
+            <ul>
+              <li>1.	Performs quick feasibility checks on the total sum and global diversity (like Algorithm 1).</li>
+              <li>2.	Build the splitting tree from the original list.</li>
+              <li>3.	Runs compute_best_partitions on the tree’s root.</li>
+              <li>4.	Calls collect_partitions to generate the list of partitions based on the DP choices.</li>
+              <li>5.	Verifies reconstruction using check_reconstruction_from_partitions.</li>
+              <li>6.	Returns success status and the resulting partitions.</li>
+            </ul>
+        </p>
 
           <h3>My Conclusion</h3>
           <p>
-          In the end
+          
+          This project implemented and analyzed two distinct algorithms for the Partition Constraint Problem: a straightforward greedy largest-first method (Algorithm 1) and a more structured tree-based dynamic programming approach (Algorithm 2). Both algorithms successfully enforce the sum constraint, diversity constraint, and reconstruction property, and both handle impossible cases correctly. <br>
+          <br>In practice, the greedy algorithm often produced as many or more partitions than the tree-based algorithm, despite lacking formal optimality guarantees and being conceptually simpler. The tree-based DP, while theoretically appealing within its splitting structure, is limited by the expressiveness of that structure and carries additional overhead in both time and implementation complexity. <br>
+          <br>Overall, the project demonstrates how different algorithmic perspectives—local greedy heuristics versus structured dynamic programming, can be applied to the same combinatorial optimization problem, and how practical considerations and structural constraints can shape which approach performs better under real input conditions.
+ 
           </p>
         </div>
 
